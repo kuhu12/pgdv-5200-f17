@@ -1,0 +1,2323 @@
+Country,POP,Incomegroup,Gini
+China,1005.328574,Upper middle income,12.1
+Pakistan,58.094239,Lower middle income,14.6
+China,991.553829,Upper middle income,15
+China,1005.328574,Upper middle income,15
+China,1019.698475,Upper middle income,15
+Romania,23.472562,Upper middle income,15.5
+Romania,23.472562,Upper middle income,15.6
+China,1019.698475,Upper middle income,15.8
+China,1052.62241,Upper middle income,15.8
+China,1071.834975,Upper middle income,15.8
+China,1092.646739,Upper middle income,15.8
+Bulgaria,8.369603,Upper middle income,15.9
+Bulgaria,8.434172,Upper middle income,15.9
+Bulgaria,8.310226,Upper middle income,16
+China,950.537317,Upper middle income,16
+China,977.837433,Upper middle income,16
+China,1035.328572,Upper middle income,16
+China,991.553829,Upper middle income,16.1
+Azerbaijan,8.466304,Upper middle income,16.23
+Pakistan,56.559367,Lower middle income,16.3
+Bangladesh,60.637557,Lower middle income,16.4
+Luxembourg,0.368662,High income: OECD,16.6
+Pakistan,55.067366,Lower middle income,16.6
+China,1052.62241,Upper middle income,16.6
+Azerbaijan,8.563398,Upper middle income,16.64
+China,991.553829,Upper middle income,16.7
+China,1035.328572,Upper middle income,16.8
+China,1114.162025,Upper middle income,16.9
+China,1172.327831,Upper middle income,17
+Bangladesh,60.637557,Lower middle income,17.3
+Azerbaijan,8.280599,Upper middle income,17.36
+Bulgaria,8.727332,Upper middle income,17.5
+China,1172.327831,Upper middle income,17.5
+China,1035.328572,Upper middle income,17.79
+Bulgaria,8.727332,Upper middle income,17.8
+Bulgaria,8.761231,Upper middle income,17.8
+China,1135.128009,Upper middle income,17.8
+Bulgaria,8.688112,Upper middle income,17.9
+Yugoslavia,,,17.9
+Australia,14.368543,High income: OECD,18
+Poland,38.094812,High income: OECD,18
+Slovakia,5.223222,High income: OECD,18
+Slovakia,5.277709,High income: OECD,18
+Slovakia,5.29808,High income: OECD,18
+Slovakia,5.31748,High income: OECD,18
+China,1154.605773,Upper middle income,18
+Australia,13.892674,High income: OECD,18.1
+Czech Republic,10.33393,High income: OECD,18.1
+Bulgaria,8.644419,Upper middle income,18.2
+Slovakia,5.244662,High income: OECD,18.3
+Slovakia,5.335292,High income: OECD,18.3
+Bulgaria,8.761231,Upper middle income,18.4
+China,991.553829,Upper middle income,18.46
+Czech Republic,10.31434,High income: OECD,18.5
+Germany,78.958237,High income: OECD,18.5
+Bulgaria,8.596962,Upper middle income,18.5
+China,1227.841281,Upper middle income,18.5
+Czechoslovakia,,,18.5
+Pakistan,58.094239,Lower middle income,18.6
+China,936.554514,Upper middle income,18.6
+Australia,14.054956,High income: OECD,18.7
+Czechoslovakia,,,18.7
+Bulgaria,8.494765,Upper middle income,18.8
+Czechoslovakia,,,18.8
+Azerbaijan,8.371536,Upper middle income,18.81
+Slovakia,5.31748,High income: OECD,18.9
+Slovakia,5.31748,High income: OECD,18.9
+Slovakia,5.31748,High income: OECD,18.9
+Australia,14.532401,High income: OECD,19
+Czech Republic,10.31378,High income: OECD,19
+Czech Republic,10.323701,High income: OECD,19
+Pakistan,52.205981,Lower middle income,19
+China,1052.62241,Upper middle income,19
+China,1071.834975,Upper middle income,19
+Czechoslovakia,,,19
+Poland,38.195258,High income: OECD,19.1
+Sweden,8.31981,High income: OECD,19.1
+Czechoslovakia,,,19.1
+Slovakia,5.335292,High income: OECD,19.2
+Bulgaria,8.54681,Upper middle income,19.2
+Cyprus,0.59405,High income: non-OECD,19.3
+Australia,14.211657,High income: OECD,19.4
+Czech Republic,10.31378,High income: OECD,19.4
+Slovakia,5.199318,High income: OECD,19.4
+Slovakia,5.223222,High income: OECD,19.4
+Sweden,8.310915,High income: OECD,19.4
+Sweden,8.323466,High income: OECD,19.4
+Sweden,8.326196,High income: OECD,19.4
+Czechoslovakia,,,19.4
+Czechoslovakia,,,19.4
+Czechoslovakia,,,19.4
+Slovakia,5.31748,High income: OECD,19.49
+Slovakia,5.223222,High income: OECD,19.5
+Czechoslovakia,,,19.5
+Czechoslovakia,,,19.5
+Slovakia,5.223222,High income: OECD,19.54
+Slovakia,5.244662,High income: OECD,19.6
+Slovakia,5.244662,High income: OECD,19.6
+China,1247.259143,Upper middle income,19.6
+Czechoslovakia,,,19.6
+Czechoslovakia,,,19.6
+Finland,4.937259,High income: OECD,19.7
+Finland,5.034898,High income: OECD,19.7
+Slovakia,5.335292,High income: OECD,19.7
+Slovakia,5.384857,High income: OECD,19.7
+Sweden,8.294832,High income: OECD,19.7
+Sweden,8.31981,High income: OECD,19.7
+Sweden,8.31981,High income: OECD,19.7
+Czechoslovakia,,,19.7
+Czechoslovakia,,,19.7
+Czech Republic,10.3116,High income: OECD,19.8
+Czech Republic,10.31378,High income: OECD,19.8
+Czech Republic,10.31434,High income: OECD,19.8
+Czech Republic,10.31434,High income: OECD,19.8
+Germany,79.483739,High income: OECD,19.8
+Sweden,8.326196,High income: OECD,19.8
+Sweden,8.326196,High income: OECD,19.8
+Czechoslovakia,,,19.8
+Czechoslovakia,,,19.8
+Czechoslovakia,,,19.8
+Czechoslovakia,,,19.8
+Czechoslovakia,,,19.8
+Germany,77.221718,High income: OECD,19.9
+Slovenia,1.94587,High income: OECD,19.9
+Sweden,8.310915,High income: OECD,19.9
+Sweden,8.323466,High income: OECD,19.9
+Czechoslovakia,,,19.9
+Denmark,5.113767,High income: OECD,20
+Denmark,5.232582,High income: OECD,20
+Denmark,5.276683,High income: OECD,20
+Finland,4.902219,High income: OECD,20
+Germany,80.07594,High income: OECD,20
+Slovakia,5.244662,High income: OECD,20
+Slovakia,5.244662,High income: OECD,20
+Sweden,8.272499,High income: OECD,20
+China,1092.646739,Upper middle income,20
+Yugoslavia,,,20
+Australia,14.708323,High income: OECD,20.1
+Czech Republic,10.323701,High income: OECD,20.1
+Denmark,5.113408,High income: OECD,20.1
+Finland,5.009381,High income: OECD,20.1
+Poland,36.517072,High income: OECD,20.1
+Czechoslovakia,,,20.1
+Finland,4.951886,High income: OECD,20.2
+Finland,4.986705,High income: OECD,20.2
+Slovakia,5.335292,High income: OECD,20.2
+Sweden,8.272499,High income: OECD,20.2
+Bulgaria,8.644419,Upper middle income,20.2
+Bulgaria,8.688112,Upper middle income,20.2
+China,1092.646739,Upper middle income,20.2
+Australia,14.898019,High income: OECD,20.4
+Czech Republic,10.31434,High income: OECD,20.4
+Finland,4.967776,High income: OECD,20.4
+Germany,78.366605,High income: OECD,20.4
+Sweden,8.245975,High income: OECD,20.4
+Sweden,8.333904,High income: OECD,20.4
+Sweden,8.457108,High income: OECD,20.4
+Romania,23.454143,Upper middle income,20.4
+Denmark,5.115308,High income: OECD,20.5
+Finland,4.800899,High income: OECD,20.5
+Hungary,9.882,High income: OECD,20.5
+Hungary,10.719749,High income: OECD,20.5
+Hungary,10.370223,High income: OECD,20.5
+Poland,38.094812,High income: OECD,20.5
+Sweden,8.350814,High income: OECD,20.5
+Sweden,8.413658,High income: OECD,20.5
+Sri Lanka,12.487493,Lower middle income,20.5
+Romania,23.454143,Upper middle income,20.5
+Czechoslovakia,,,20.5
+Czech Republic,10.33393,High income: OECD,20.6
+Sweden,8.333904,High income: OECD,20.6
+Czechoslovakia,,,20.6
+Australia,15.101227,High income: OECD,20.7
+Australia,15.548591,High income: OECD,20.7
+Australia,15.791043,High income: OECD,20.7
+Finland,4.937259,High income: OECD,20.7
+Hungary,10.759022,High income: OECD,20.7
+Poland,38.094812,High income: OECD,20.7
+Sweden,8.350814,High income: OECD,20.7
+Pakistan,55.067366,Lower middle income,20.7
+Bulgaria,8.878348,Upper middle income,20.7
+Czechoslovakia,,,20.7
+Czech Republic,10.33393,High income: OECD,20.8
+Pakistan,56.559367,Lower middle income,20.8
+Bulgaria,8.943721,Upper middle income,20.8
+Australia,13.7254,High income: OECD,20.9
+Denmark,5.116351,High income: OECD,20.9
+Finland,4.921293,High income: OECD,20.9
+Finland,5.009381,High income: OECD,20.9
+Finland,5.061465,High income: OECD,20.9
+Finland,5.086499,High income: OECD,20.9
+Hungary,10.124,High income: OECD,20.9
+Hungary,10.719749,High income: OECD,20.9
+Hungary,10.370223,High income: OECD,20.9
+Sweden,8.21863,High income: OECD,20.9
+Sweden,8.616535,High income: OECD,20.9
+Bulgaria,8.434172,Upper middle income,20.9
+Turkmenistan,4.395293,Upper middle income,20.9
+Hungary,10.482364,High income: OECD,20.96
+Czech Republic,10.33393,High income: OECD,21
+Denmark,5.31941,High income: OECD,21
+Hungary,10.482364,High income: OECD,21
+Sweden,8.506236,High income: OECD,21
+Czechoslovakia,,,21
+Yugoslavia,,,21
+Yugoslavia,,,21
+Yugoslavia,,,21
+Yugoslavia,,,21
+Yugoslavia,,,21
+Yugoslavia,,,21
+Croatia,4.48431,High income: non-OECD,21.1
+Australia,16.047026,High income: OECD,21.1
+Sweden,8.82672,High income: OECD,21.1
+China,1227.841281,Upper middle income,21.1
+Czech Republic,10.32844,High income: OECD,21.2
+Czech Republic,10.33393,High income: OECD,21.2
+Czech Republic,10.297977,High income: OECD,21.2
+Poland,37.990683,High income: OECD,21.2
+Ukraine,51.36072,Lower middle income,21.2
+Bulgaria,8.012946,Upper middle income,21.2
+Bulgaria,8.821111,Upper middle income,21.2
+China,950.537317,Upper middle income,21.2
+Australia,15.318254,High income: OECD,21.3
+Germany,80.07594,High income: OECD,21.3
+Hungary,10.622559,High income: OECD,21.3
+Poland,36.145211,High income: OECD,21.3
+Sweden,8.192693,High income: OECD,21.3
+Sweden,8.413658,High income: OECD,21.3
+Bulgaria,8.54681,Upper middle income,21.3
+Bulgaria,8.821111,Upper middle income,21.3
+Czech Republic,10.33393,High income: OECD,21.4
+Czech Republic,10.338381,High income: OECD,21.4
+Hungary,10.650975,High income: OECD,21.4
+Hungary,10.704187,High income: OECD,21.4
+Hungary,10.409854,High income: OECD,21.4
+Poland,37.990683,High income: OECD,21.4
+Sweden,8.192693,High income: OECD,21.4
+Sweden,8.377863,High income: OECD,21.4
+Yugoslavia,,,21.4
+Czech Republic,10.33393,High income: OECD,21.5
+Denmark,5.232582,High income: OECD,21.5
+Finland,4.726803,High income: OECD,21.5
+Poland,36.879742,High income: OECD,21.5
+Slovenia,1.94587,High income: OECD,21.5
+Bulgaria,8.494765,Upper middle income,21.5
+Czech Republic,10.335556,High income: OECD,21.6
+Denmark,5.118966,High income: OECD,21.6
+Denmark,5.211321,High income: OECD,21.6
+Denmark,5.254383,High income: OECD,21.6
+Germany,80.675999,High income: OECD,21.6
+Slovakia,5.277709,High income: OECD,21.6
+Belarus,10.216281,Upper middle income,21.6
+Finland,5.108176,High income: OECD,21.7
+Finland,5.108176,High income: OECD,21.7
+Norway,4.199817,High income: OECD,21.7
+Finland,5.108176,High income: OECD,21.8
+Ukraine,51.36072,Lower middle income,21.8
+Bulgaria,8.596962,Upper middle income,21.8
+Yugoslavia,,,21.8
+Hungary,10.593989,High income: OECD,21.9
+Japan,115.912104,High income: OECD,21.9
+Slovenia,1.976217,High income: OECD,21.9
+Slovenia,1.987855,High income: OECD,21.9
+Sweden,8.559107,High income: OECD,21.9
+Denmark,5.12281,High income: OECD,22
+Denmark,5.129472,High income: OECD,22
+Denmark,5.354704,High income: OECD,22
+Finland,5.126021,High income: OECD,22
+Finland,5.140755,High income: OECD,22
+Finland,5.153229,High income: OECD,22
+Slovenia,1.988287,High income: OECD,22
+Slovenia,1.988304,High income: OECD,22
+Bulgaria,8.91866,Upper middle income,22
+Yugoslavia,,,22
+Yugoslavia,,,22
+Yugoslavia,,,22
+Denmark,5.113408,High income: OECD,22.1
+Denmark,5.232582,High income: OECD,22.1
+Finland,5.126021,High income: OECD,22.1
+Hungary,10.495442,High income: OECD,22.1
+Hungary,10.526561,High income: OECD,22.1
+Slovakia,5.244662,High income: OECD,22.1
+Slovenia,1.988304,High income: OECD,22.1
+Sweden,8.506236,High income: OECD,22.1
+Sweden,8.82672,High income: OECD,22.1
+Yugoslavia,,,22.1
+Croatia,4.493676,High income: non-OECD,22.2
+Belgium,10.050405,High income: OECD,22.2
+Czech Republic,10.32844,High income: OECD,22.2
+Denmark,5.154309,High income: OECD,22.2
+Denmark,5.171304,High income: OECD,22.2
+Norway,4.164166,High income: OECD,22.2
+Slovenia,1.976217,High income: OECD,22.2
+Slovenia,1.988077,High income: OECD,22.2
+Pakistan,52.205981,Lower middle income,22.2
+Bulgaria,8.2014,Upper middle income,22.2
+Denmark,5.190631,High income: OECD,22.3
+Finland,5.009381,High income: OECD,22.3
+Slovenia,1.988166,High income: OECD,22.3
+Slovenia,1.988652,High income: OECD,22.3
+"Macedonia, former Yugoslav Republic of",1.996227,Upper middle income,22.3
+Denmark,5.113767,High income: OECD,22.4
+Denmark,5.121511,High income: OECD,22.4
+Denmark,5.276683,High income: OECD,22.4
+Denmark,5.29868,High income: OECD,22.4
+Finland,4.902219,High income: OECD,22.4
+Germany,80.675999,High income: OECD,22.4
+Norway,4.148355,High income: OECD,22.4
+Norway,4.164166,High income: OECD,22.4
+Norway,4.181326,High income: OECD,22.4
+Egypt,78.976122,Lower middle income,22.4
+China,1052.62241,Upper middle income,22.4
+Lithuania,3.67395,High income: non-OECD,22.48
+Latvia,2.664068,High income: OECD,22.49
+Lithuania,3.67395,High income: non-OECD,22.5
+Australia,13.364238,High income: OECD,22.5
+Belgium,9.893499,High income: OECD,22.5
+Denmark,4.960476,High income: OECD,22.5
+Denmark,5.116351,High income: OECD,22.5
+Hungary,10.409854,High income: OECD,22.5
+Latvia,2.664068,High income: OECD,22.5
+Norway,4.069626,High income: OECD,22.5
+Norway,5.018367,High income: OECD,22.5
+Poland,38.297549,High income: OECD,22.5
+Slovenia,1.988527,High income: OECD,22.5
+Bulgaria,8.078145,Upper middle income,22.5
+Czechoslovakia,,,22.5
+Denmark,5.140332,High income: OECD,22.6
+Denmark,5.338283,High income: OECD,22.6
+Hungary,10.417419,High income: OECD,22.6
+Hungary,10.363797,High income: OECD,22.6
+Norway,4.164166,High income: OECD,22.6
+Poland,37.208529,High income: OECD,22.6
+Ukraine,51.31408,Lower middle income,22.6
+Bulgaria,8.956741,Upper middle income,22.6
+Romania,23.255683,Upper middle income,22.6
+Czechoslovakia,,,22.6
+Australia,8.675029,High income: OECD,22.7
+Austria,7.6237,High income: OECD,22.7
+Belgium,9.893499,High income: OECD,22.7
+Czech Republic,10.330487,High income: OECD,22.7
+Denmark,5.124807,High income: OECD,22.7
+Denmark,5.338283,High income: OECD,22.7
+Finland,5.009381,High income: OECD,22.7
+Hungary,10.22342,High income: OECD,22.7
+Iceland,0.327318,High income: OECD,22.7
+Norway,5.08345,High income: OECD,22.7
+Slovakia,5.39671,High income: OECD,22.7
+Slovenia,2.042804,High income: OECD,22.7
+Sweden,8.559107,High income: OECD,22.7
+Romania,23.489361,Upper middle income,22.7
+Yugoslavia,,,22.7
+Belarus,10.14961,Upper middle income,22.76
+Croatia,4.493676,High income: non-OECD,22.78
+Denmark,5.31941,High income: OECD,22.8
+Finland,5.034898,High income: OECD,22.8
+Slovenia,2.00652,High income: OECD,22.8
+Ukraine,51.50148,Lower middle income,22.8
+Belarus,10.14961,Upper middle income,22.8
+Yugoslavia,,,22.8
+Australia,13.55219,High income: OECD,22.9
+Finland,4.986705,High income: OECD,22.9
+Hungary,10.345553,High income: OECD,22.9
+Norway,4.953945,High income: OECD,22.9
+Slovenia,1.988077,High income: OECD,22.9
+Sweden,8.677787,High income: OECD,22.9
+Sweden,8.677787,High income: OECD,22.9
+Moldova,4.026204,Lower middle income,22.9
+Belarus,10.18408,Upper middle income,22.9
+Bulgaria,8.310226,Upper middle income,22.9
+Romania,23.489361,Upper middle income,22.9
+Romania,23.255683,Upper middle income,22.9
+Estonia,1.569187,High income: OECD,22.97
+Australia,9.029064,High income: OECD,23
+Belgium,10.050405,High income: OECD,23
+Czech Republic,10.339439,High income: OECD,23
+Czech Republic,10.326682,High income: OECD,23
+Denmark,5.398645,High income: OECD,23
+Estonia,1.569187,High income: OECD,23
+Poland,37.867481,High income: OECD,23
+Poland,37.867481,High income: OECD,23
+Slovenia,2.017452,High income: OECD,23
+Spain,39.878881,High income: OECD,23
+Sweden,8.616535,High income: OECD,23
+Sweden,8.677787,High income: OECD,23
+Sweden,8.982282,High income: OECD,23
+China,1114.162025,Upper middle income,23
+China,1135.128009,Upper middle income,23
+China,1154.605773,Upper middle income,23
+Yugoslavia,,,23
+Yugoslavia,,,23
+Yugoslavia,,,23
+Yugoslavia,,,23
+Australia,,High income: OECD,23.1
+Czech Republic,10.26301,High income: OECD,23.1
+Finland,5.086499,High income: OECD,23.1
+Hungary,10.363797,High income: OECD,23.1
+Netherlands,15.806771,High income: OECD,23.1
+Norway,4.262367,High income: OECD,23.1
+Poland,32.816751,High income: OECD,23.1
+Poland,35.782855,High income: OECD,23.1
+Slovenia,1.990924,High income: OECD,23.1
+Belgium,9.931873,High income: OECD,23.2
+Czech Republic,10.33393,High income: OECD,23.2
+Czech Republic,10.280525,High income: OECD,23.2
+Denmark,5.417692,High income: OECD,23.2
+Poland,33.328713,High income: OECD,23.2
+Slovenia,2.00652,High income: OECD,23.2
+Slovenia,1.988527,High income: OECD,23.2
+Slovenia,2.017452,High income: OECD,23.2
+China,1005.328574,Upper middle income,23.2
+Finland,4.800899,High income: OECD,23.3
+Germany,81.895925,High income: OECD,23.3
+Hungary,9.825,High income: OECD,23.3
+Norway,4.240375,High income: OECD,23.3
+Norway,4.262367,High income: OECD,23.3
+Poland,37.486105,High income: OECD,23.3
+Slovakia,5.29808,High income: OECD,23.3
+Ukraine,51.42296,Lower middle income,23.3
+Belarus,10.231983,Upper middle income,23.3
+Bulgaria,8.878348,Upper middle income,23.3
+China,1114.162025,Upper middle income,23.3
+Romania,23.472562,Upper middle income,23.3
+Ukraine,51.42296,Lower middle income,23.31
+Romania,23.472562,Upper middle income,23.31
+Australia,9.90022,High income: OECD,23.4
+Australia,16.314778,High income: OECD,23.4
+Belgium,9.931873,High income: OECD,23.4
+Czech Republic,10.225198,High income: OECD,23.4
+Hungary,10.361134,High income: OECD,23.4
+Israel,1.262294,High income: OECD,23.4
+Norway,4.107655,High income: OECD,23.4
+Norway,4.164166,High income: OECD,23.4
+Slovenia,2.030599,High income: OECD,23.4
+Spain,39.878881,High income: OECD,23.4
+Sweden,8.982282,High income: OECD,23.4
+Sweden,9.030163,High income: OECD,23.4
+Sweden,9.153316,High income: OECD,23.4
+United Kingdom,56.224944,High income: OECD,23.4
+United Kingdom,56.223974,High income: OECD,23.4
+Ukraine,51.31408,Lower middle income,23.4
+Belarus,9.712761,Upper middle income,23.4
+Belarus,10.18408,Upper middle income,23.4
+Bulgaria,8.960387,Upper middle income,23.4
+China,977.837433,Upper middle income,23.4
+Bulgaria,8.878348,Upper middle income,23.43
+Russia,147.568552,High income: non-OECD,23.5
+Australia,,High income: OECD,23.5
+Australia,8.85913,High income: OECD,23.5
+Australia,9.239138,High income: OECD,23.5
+Czech Republic,10.212088,High income: OECD,23.5
+Finland,5.140755,High income: OECD,23.5
+Luxembourg,0.402431,High income: OECD,23.5
+Netherlands,13.827329,High income: OECD,23.5
+Norway,5.14797,High income: OECD,23.5
+Slovenia,1.987855,High income: OECD,23.5
+Spain,39.878881,High income: OECD,23.5
+Ukraine,51.50148,Lower middle income,23.5
+Belarus,10.005259,Upper middle income,23.5
+Bulgaria,8.954518,Upper middle income,23.5
+"Macedonia, former Yugoslav Republic of",1.977033,Upper middle income,23.5
+Australia,,High income: OECD,23.6
+Australia,9.456325,High income: OECD,23.6
+Finland,5.061465,High income: OECD,23.6
+Germany,81.870772,High income: OECD,23.6
+Hungary,10.30281,High income: OECD,23.6
+Hungary,10.417419,High income: OECD,23.6
+Iceland,0.32103,High income: OECD,23.6
+Iceland,,High income: OECD,23.6
+Luxembourg,0.366884,High income: OECD,23.6
+Netherlands,14.634787,High income: OECD,23.6
+New Zealand,3.752102,High income: OECD,23.6
+Norway,4.891251,High income: OECD,23.6
+Slovenia,1.94587,High income: OECD,23.6
+Slovenia,2.030599,High income: OECD,23.6
+Ukraine,50.23568,Lower middle income,23.6
+Lithuania,3.619593,High income: non-OECD,23.7
+Australia,,High income: OECD,23.7
+Belgium,10.050405,High income: OECD,23.7
+Czech Republic,10.244261,High income: OECD,23.7
+Denmark,5.440696,High income: OECD,23.7
+Norway,4.716584,High income: OECD,23.7
+Slovakia,5.372115,High income: OECD,23.7
+Slovakia,5.39671,High income: OECD,23.7
+Slovakia,,High income: OECD,23.7
+Slovenia,2.005566,High income: OECD,23.7
+Slovenia,2.062881,High income: OECD,23.7
+United Kingdom,56.212943,High income: OECD,23.7
+China,964.155176,Upper middle income,23.7
+Romania,23.472562,Upper middle income,23.7
+Slovenia,2.030599,High income: OECD,23.72
+Russia,146.8657,High income: non-OECD,23.8
+Russia,146.8657,High income: non-OECD,23.8
+Denmark,5.523755,High income: OECD,23.8
+Finland,5.108176,High income: OECD,23.8
+Luxembourg,0.366884,High income: OECD,23.8
+Norway,4.262367,High income: OECD,23.8
+Slovenia,1.996522,High income: OECD,23.8
+Slovenia,2.05248,High income: OECD,23.8
+Slovenia,2.059023,High income: OECD,23.8
+Sweden,8.84942,High income: OECD,23.8
+United Kingdom,56.179925,High income: OECD,23.8
+Pakistan,125.697651,Lower middle income,23.8
+Belarus,10.18408,Upper middle income,23.8
+Belarus,9.640616,Upper middle income,23.8
+Czech Republic,9.57465,High income: OECD,23.9
+Czech Republic,10.313836,High income: OECD,23.9
+Denmark,5.171304,High income: OECD,23.9
+Denmark,5.398645,High income: OECD,23.9
+Denmark,5.417692,High income: OECD,23.9
+Denmark,5.440696,High income: OECD,23.9
+Finland,4.726803,High income: OECD,23.9
+Germany,75.553512,High income: OECD,23.9
+Hungary,10.363797,High income: OECD,23.9
+Luxembourg,0.386355,High income: OECD,23.9
+Norway,4.199817,High income: OECD,23.9
+Norway,,High income: OECD,23.9
+Poland,38.297549,High income: OECD,23.9
+Poland,38.396826,High income: OECD,23.9
+Sweden,9.030163,High income: OECD,23.9
+Indonesia,214.448301,Lower middle income,23.9
+Pakistan,58.094239,Lower middle income,23.9
+China,991.553829,Upper middle income,23.9
+Czechoslovakia,,,23.9
+Yugoslavia,,,23.9
+Australia,9.684162,High income: OECD,24
+Austria,8.023166,High income: OECD,24
+Austria,8.050884,High income: OECD,24
+Austria,8.078877,High income: OECD,24
+Denmark,5.171304,High income: OECD,24
+Estonia,1.56532,High income: OECD,24
+Finland,5.16478,High income: OECD,24
+Finland,5.176482,High income: OECD,24
+Finland,5.188446,High income: OECD,24
+Germany,81.206786,High income: OECD,24
+Germany,81.96583,High income: OECD,24
+Germany,81.809438,High income: OECD,24
+Iceland,0.323407,High income: OECD,24
+Iceland,0.325392,High income: OECD,24
+Latvia,2.663985,High income: OECD,24
+Norway,4.285504,High income: OECD,24
+Poland,33.59781,High income: OECD,24
+Slovenia,1.988077,High income: OECD,24
+Sweden,8.294832,High income: OECD,24
+Sweden,8.7375,High income: OECD,24
+Sweden,9.087251,High income: OECD,24
+Sweden,9.226333,High income: OECD,24
+Egypt,82.040994,Lower middle income,24
+Indonesia,208.644079,Lower middle income,24
+Pakistan,98.301647,Lower middle income,24
+Ukraine,51.370009,Lower middle income,24
+Bulgaria,7.805041,Upper middle income,24
+China,1172.327831,Upper middle income,24
+Yugoslavia,,,24
+Yugoslavia,,,24
+Ukraine,45.002497,Lower middle income,24.09
+Australia,11.435046,High income: OECD,24.1
+Denmark,5.466988,High income: OECD,24.1
+Germany,82.010184,High income: OECD,24.1
+Hungary,10.014633,High income: OECD,24.1
+Iceland,0.293084,High income: OECD,24.1
+Norway,4.830371,High income: OECD,24.1
+Slovenia,2.005566,High income: OECD,24.1
+Slovenia,2.017452,High income: OECD,24.1
+Sweden,9.382297,High income: OECD,24.1
+Indonesia,211.540428,Lower middle income,24.1
+Moldova,4.289659,Lower middle income,24.1
+Moldova,4.289659,Lower middle income,24.14
+Russia,147.3517,High income: non-OECD,24.2
+Australia,11.660398,High income: OECD,24.2
+Australia,16.849253,High income: OECD,24.2
+Czech Republic,10.271476,High income: OECD,24.2
+Denmark,5.495302,High income: OECD,24.2
+Germany,81.6129,High income: OECD,24.2
+Hungary,10.351994,High income: OECD,24.2
+Netherlands,14.471591,High income: OECD,24.2
+Norway,4.359788,High income: OECD,24.2
+Poland,35.100942,High income: OECD,24.2
+Poland,37.703942,High income: OECD,24.2
+Poland,38.297549,High income: OECD,24.2
+Slovakia,5.387734,High income: OECD,24.2
+Slovakia,5.391728,High income: OECD,24.2
+Slovakia,5.419288,High income: OECD,24.2
+Slovenia,1.996522,High income: OECD,24.2
+Sweden,8.861204,High income: OECD,24.2
+United Kingdom,53.272267,High income: OECD,24.2
+Ukraine,49.23352,Lower middle income,24.2
+Belarus,10.14961,Upper middle income,24.2
+Australia,10.106834,High income: OECD,24.3
+Austria,7.625724,High income: OECD,24.3
+Germany,81.993831,High income: OECD,24.3
+Norway,4.359788,High income: OECD,24.3
+Slovenia,1.988166,High income: OECD,24.3
+Slovenia,1.988304,High income: OECD,24.3
+Sweden,8.616535,High income: OECD,24.3
+Sweden,8.872284,High income: OECD,24.3
+Kyrgyzstan,3.690194,Lower middle income,24.3
+Bulgaria,8.274662,Upper middle income,24.3
+"Macedonia, former Yugoslav Republic of",2.038444,Upper middle income,24.3
+Romania,23.454143,Upper middle income,24.3
+Yugoslavia,,,24.3
+Yugoslavia,,,24.3
+Bulgaria,8.451626,Upper middle income,24.32
+Slovenia,2.017452,High income: OECD,24.37
+Lithuania,3.462341,High income: non-OECD,24.4
+Lithuania,3.67395,High income: non-OECD,24.4
+Germany,77.990369,High income: OECD,24.4
+Hungary,10.30281,High income: OECD,24.4
+Hungary,10.482364,High income: OECD,24.4
+Iceland,0.318042,High income: OECD,24.4
+Latvia,2.667309,High income: OECD,24.4
+Norway,4.219532,High income: OECD,24.4
+Poland,34.468877,High income: OECD,24.4
+Slovenia,1.988287,High income: OECD,24.4
+Slovenia,2.064819,High income: OECD,24.4
+Spain,39.032625,High income: OECD,24.4
+Sweden,8.506236,High income: OECD,24.4
+Sweden,9.462352,High income: OECD,24.4
+United Kingdom,55.193557,High income: OECD,24.4
+Ukraine,51.50148,Lower middle income,24.4
+Belarus,10.126941,Upper middle income,24.4
+Bulgaria,8.891245,Upper middle income,24.4
+Slovenia,2.005566,High income: OECD,24.48
+Australia,11.880264,High income: OECD,24.5
+Finland,5.126021,High income: OECD,24.5
+Netherlands,14.181967,High income: OECD,24.5
+Norway,4.164166,High income: OECD,24.5
+Norway,4.309606,High income: OECD,24.5
+Norway,4.716584,High income: OECD,24.5
+Norway,4.830371,High income: OECD,24.5
+Slovakia,5.31748,High income: OECD,24.5
+Slovakia,5.391728,High income: OECD,24.5
+Slovenia,1.996522,High income: OECD,24.5
+Slovenia,2.059023,High income: OECD,24.5
+Slovenia,,High income: OECD,24.5
+United Kingdom,56.122405,High income: OECD,24.5
+Pakistan,56.559367,Lower middle income,24.5
+Belarus,9.891535,Upper middle income,24.5
+Bulgaria,8.821111,Upper middle income,24.5
+Mongolia,2.335694,Upper middle income,24.5
+Czechoslovakia,,,24.5
+Soviet Union,,,24.5
+Ukraine,45.47769,Lower middle income,24.55
+Ukraine,45.165211,Lower middle income,24.55
+Croatia,4.532298,High income: non-OECD,24.6
+Czech Republic,10.211846,High income: OECD,24.6
+Czech Republic,10.545314,High income: OECD,24.6
+Denmark,5.466988,High income: OECD,24.6
+Finland,5.153229,High income: OECD,24.6
+Hungary,10.334876,High income: OECD,24.6
+Iceland,0.318042,High income: OECD,24.6
+Poland,36.879742,High income: OECD,24.6
+Poland,37.990683,High income: OECD,24.6
+Slovakia,5.391728,High income: OECD,24.6
+Slovenia,1.995615,High income: OECD,24.6
+Slovenia,1.988652,High income: OECD,24.6
+Slovenia,1.990924,High income: OECD,24.6
+Slovenia,2.05248,High income: OECD,24.6
+Sweden,8.559107,High income: OECD,24.6
+United Kingdom,54.329874,High income: OECD,24.6
+United Kingdom,54.93865,High income: OECD,24.6
+Pakistan,116.579605,Lower middle income,24.6
+Ukraine,46.5103,Lower middle income,24.6
+Belarus,9.825802,Upper middle income,24.6
+Bulgaria,7.651254,Upper middle income,24.6
+Bulgaria,7.867374,Upper middle income,24.6
+China,1019.698475,Upper middle income,24.6
+Czechoslovakia,,,24.6
+Czechoslovakia,,,24.6
+Yugoslavia,,,24.6
+Slovenia,1.996522,High income: OECD,24.63
+Australia,10.327479,High income: OECD,24.7
+Australia,10.561457,High income: OECD,24.7
+Australia,12.101641,High income: OECD,24.7
+Australia,12.335469,High income: OECD,24.7
+Czech Republic,10.397984,High income: OECD,24.7
+Finland,5.176482,High income: OECD,24.7
+Hungary,10.034951,High income: OECD,24.7
+Latvia,2.645056,High income: OECD,24.7
+Luxembourg,0.368662,High income: OECD,24.7
+Norway,4.219532,High income: OECD,24.7
+Poland,38.396826,High income: OECD,24.7
+Poland,38.396826,High income: OECD,24.7
+Slovenia,2.042804,High income: OECD,24.7
+Belarus,9.952055,Upper middle income,24.7
+Bulgaria,8.916713,Upper middle income,24.7
+China,991.553829,Upper middle income,24.73
+Slovakia,5.391728,High income: OECD,24.74
+Ukraine,45.319949,Lower middle income,24.74
+Indonesia,208.644079,Lower middle income,24.76
+Lithuania,3.697393,High income: non-OECD,24.8
+Australia,12.618559,High income: OECD,24.8
+Denmark,5.382953,High income: OECD,24.8
+Latvia,2.536967,High income: OECD,24.8
+Slovakia,5.391728,High income: OECD,24.8
+Slovakia,5.401951,High income: OECD,24.8
+Slovenia,1.988527,High income: OECD,24.8
+Sweden,9.303432,High income: OECD,24.8
+Sweden,9.543457,High income: OECD,24.8
+United Kingdom,56.220089,High income: OECD,24.8
+Georgia,5.073148,Lower middle income,24.8
+Moldova,4.183283,Lower middle income,24.8
+Ukraine,51.42296,Lower middle income,24.8
+Uzbekistan,16.40049,Lower middle income,24.8
+Belarus,9.695791,Upper middle income,24.8
+Ukraine,45.647497,Lower middle income,24.82
+Slovenia,2.042804,High income: OECD,24.83
+Slovenia,1.990924,High income: OECD,24.84
+Slovenia,2.059023,High income: OECD,24.87
+Australia,10.803588,High income: OECD,24.9
+Australia,11.214037,High income: OECD,24.9
+Australia,13.150591,High income: OECD,24.9
+Czech Republic,10.506617,High income: OECD,24.9
+Czech Republic,10.545161,High income: OECD,24.9
+Denmark,4.798825,High income: OECD,24.9
+Japan,123.658854,High income: OECD,24.9
+Norway,4.891251,High income: OECD,24.9
+Norway,4.891251,High income: OECD,24.9
+Poland,38.094812,High income: OECD,24.9
+Slovakia,5.37849,High income: OECD,24.9
+Slovakia,5.384857,High income: OECD,24.9
+Slovakia,5.387734,High income: OECD,24.9
+Spain,39.878881,High income: OECD,24.9
+Sweden,9.624247,High income: OECD,24.9
+Ukraine,51.0957,Lower middle income,24.9
+Belarus,10.091181,Upper middle income,24.9
+Belarus,9.758817,Upper middle income,24.9
+Turkmenistan,4.335991,Upper middle income,24.9
+Soviet Union,,,24.9
+Slovenia,2.05248,High income: OECD,24.94
+Uzbekistan,19.62469,Lower middle income,24.95
+Australia,12.90476,High income: OECD,25
+Austria,8.015256,High income: OECD,25
+Belgium,10.201758,High income: OECD,25
+Czech Republic,,High income: OECD,25
+Finland,5.034898,High income: OECD,25
+Germany,77.657451,High income: OECD,25
+Germany,77.566776,High income: OECD,25
+Germany,81.993831,High income: OECD,25
+Germany,82.010184,High income: OECD,25
+Germany,81.96583,High income: OECD,25
+Germany,81.895925,High income: OECD,25
+Germany,81.809438,High income: OECD,25
+Hungary,10.282937,High income: OECD,25
+Latvia,2.664068,High income: OECD,25
+Luxembourg,0.419974,High income: OECD,25
+Netherlands,15.721627,High income: OECD,25
+Netherlands,15.894016,High income: OECD,25
+Norway,4.771633,High income: OECD,25
+Norway,4.953945,High income: OECD,25
+Poland,37.703942,High income: OECD,25
+Poland,37.867481,High income: OECD,25
+Poland,38.396826,High income: OECD,25
+Slovakia,5.372115,High income: OECD,25
+Slovenia,2.066068,High income: OECD,25
+Egypt,31.37805,Lower middle income,25
+Indonesia,182.177052,Lower middle income,25
+Moldova,4.359496,Lower middle income,25
+Ukraine,48.02663,Lower middle income,25
+Bulgaria,8.790072,Upper middle income,25
+Bulgaria,8.865235,Upper middle income,25
+Bulgaria,8.939007,Upper middle income,25
+Bulgaria,7.682614,Upper middle income,25
+China,1188.450231,Upper middle income,25
+"Macedonia, former Yugoslav Republic of",1.958303,Upper middle income,25
+Yugoslavia,,,25
+Hungary,10.409854,High income: OECD,25.05
+Croatia,4.501397,High income: non-OECD,25.1
+Russia,139.9,High income: non-OECD,25.1
+Czech Republic,10.460022,High income: OECD,25.1
+Czech Republic,10.542666,High income: OECD,25.1
+Denmark,5.495302,High income: OECD,25.1
+Estonia,1.493318,High income: OECD,25.1
+Finland,4.937259,High income: OECD,25.1
+Finland,5.009381,High income: OECD,25.1
+Germany,77.570009,High income: OECD,25.1
+Germany,81.699829,High income: OECD,25.1
+Hungary,10.22342,High income: OECD,25.1
+Iceland,0.296745,High income: OECD,25.1
+Iceland,0.32103,High income: OECD,25.1
+Netherlands,16.809157,High income: OECD,25.1
+Norway,4.771633,High income: OECD,25.1
+Norway,5.08345,High income: OECD,25.1
+Slovenia,2.000783,High income: OECD,25.1
+United Kingdom,56.220089,High income: OECD,25.1
+Moldova,4.359496,Lower middle income,25.1
+Pakistan,132.01368,Lower middle income,25.1
+Ukraine,51.370009,Lower middle income,25.1
+Ukraine,51.31408,Lower middle income,25.1
+Bulgaria,8.552429,Upper middle income,25.1
+Bulgaria,8.552429,Upper middle income,25.1
+China,991.553829,Upper middle income,25.1
+Poland,37.486105,High income: OECD,25.16
+Australia,11.003531,High income: OECD,25.2
+Czech Republic,10.330487,High income: OECD,25.2
+Czech Republic,10.533985,High income: OECD,25.2
+Denmark,5.466988,High income: OECD,25.2
+Denmark,5.550959,High income: OECD,25.2
+Finland,4.800899,High income: OECD,25.2
+Finland,,High income: OECD,25.2
+Germany,77.864381,High income: OECD,25.2
+Hungary,10.050699,High income: OECD,25.2
+Israel,1.908364,High income: OECD,25.2
+Latvia,2.626695,High income: OECD,25.2
+Netherlands,14.325363,High income: OECD,25.2
+Norway,4.240375,High income: OECD,25.2
+Norway,4.589241,High income: OECD,25.2
+Slovenia,1.989042,High income: OECD,25.2
+Slovenia,2.05248,High income: OECD,25.2
+Spain,38.73433,High income: OECD,25.2
+Sweden,8.677787,High income: OECD,25.2
+Sweden,,High income: OECD,25.2
+United Kingdom,55.440463,High income: OECD,25.2
+Pakistan,113.616165,Lower middle income,25.2
+Tajikistan,4.072967,Lower middle income,25.2
+Azerbaijan,6.260734,Upper middle income,25.2
+Turkmenistan,3.323673,Upper middle income,25.2
+Austria,8.269372,High income: OECD,25.3
+Czech Republic,10.271476,High income: OECD,25.3
+Czech Republic,10.330487,High income: OECD,25.3
+Denmark,5.576577,High income: OECD,25.3
+Estonia,1.570926,High income: OECD,25.3
+Hungary,10.282937,High income: OECD,25.3
+Hungary,10.25311,High income: OECD,25.3
+Netherlands,15.450803,High income: OECD,25.3
+Poland,37.486105,High income: OECD,25.3
+Slovakia,5.415496,High income: OECD,25.3
+United Kingdom,56.221513,High income: OECD,25.3
+Belarus,10.159731,Upper middle income,25.3
+Belarus,10.051298,Upper middle income,25.3
+China,1269.974572,Upper middle income,25.3
+"Macedonia, former Yugoslav Republic of",1.956165,Upper middle income,25.3
+Yugoslavia,,,25.3
+Ukraine,45.830711,Lower middle income,25.32
+Indonesia,220.307809,Lower middle income,25.36
+Australia,17.096869,High income: OECD,25.4
+Czech Republic,10.326682,High income: OECD,25.4
+Czech Republic,10.460022,High income: OECD,25.4
+Denmark,5.550959,High income: OECD,25.4
+Finland,5.228842,High income: OECD,25.4
+Finland,5.367693,High income: OECD,25.4
+Finland,5.453061,High income: OECD,25.4
+Germany,78.732884,High income: OECD,25.4
+Germany,78.426715,High income: OECD,25.4
+Hungary,10.311227,High income: OECD,25.4
+Netherlands,16.749318,High income: OECD,25.4
+Slovakia,5.384237,High income: OECD,25.4
+Sweden,8.859106,High income: OECD,25.4
+Sweden,8.942926,High income: OECD,25.4
+Sweden,9.703247,High income: OECD,25.4
+United Kingdom,55.611401,High income: OECD,25.4
+United Kingdom,56.039166,High income: OECD,25.4
+Bangladesh,60.637557,Lower middle income,25.4
+Belarus,10.04418,Upper middle income,25.4
+Romania,23.373155,Upper middle income,25.46
+Australia,17.932214,High income: OECD,25.5
+Czech Republic,10.225198,High income: OECD,25.5
+Czech Republic,10.330487,High income: OECD,25.5
+Denmark,5.116351,High income: OECD,25.5
+Finland,5.200632,High income: OECD,25.5
+Finland,5.228842,High income: OECD,25.5
+Finland,5.340485,High income: OECD,25.5
+Germany,77.657451,High income: OECD,25.5
+Italy,57.029614,High income: OECD,25.5
+Netherlands,15.128288,High income: OECD,25.5
+Netherlands,15.347792,High income: OECD,25.5
+Netherlands,16.631571,High income: OECD,25.5
+Norway,4.334434,High income: OECD,25.5
+Turkmenistan,3.572311,Upper middle income,25.5
+Poland,37.867481,High income: OECD,25.53
+Indonesia,217.369087,Lower middle income,25.53
+Norway,4.953945,High income: OECD,25.54
+Slovenia,2.062881,High income: OECD,25.59
+China,1154.605773,Upper middle income,25.59
+Czech Republic,10.326682,High income: OECD,25.6
+Czech Republic,10.397984,High income: OECD,25.6
+Czech Republic,10.506617,High income: OECD,25.6
+Czech Republic,10.533985,High income: OECD,25.6
+Finland,4.986705,High income: OECD,25.6
+Finland,5.176482,High income: OECD,25.6
+Finland,5.188446,High income: OECD,25.6
+Finland,5.47966,High income: OECD,25.6
+Germany,78.958237,High income: OECD,25.6
+Hungary,10.064138,High income: OECD,25.6
+Netherlands,15.019184,High income: OECD,25.6
+Poland,37.867481,High income: OECD,25.6
+Poland,38.485892,High income: OECD,25.6
+Sweden,8.82672,High income: OECD,25.6
+Soviet Union,,,25.6
+Indonesia,206.598599,Lower middle income,25.68
+Belgium,9.931873,High income: OECD,25.7
+Czech Republic,10.338381,High income: OECD,25.7
+Czech Republic,10.326682,High income: OECD,25.7
+Czech Republic,10.280525,High income: OECD,25.7
+Germany,81.569481,High income: OECD,25.7
+Hungary,10.063,High income: OECD,25.7
+Iceland,0.293084,High income: OECD,25.7
+Iceland,0.293084,High income: OECD,25.7
+Iceland,0.318042,High income: OECD,25.7
+Netherlands,15.239262,High income: OECD,25.7
+Netherlands,15.239262,High income: OECD,25.7
+Netherlands,15.546647,High income: OECD,25.7
+Netherlands,16.631571,High income: OECD,25.7
+Poland,38.485892,High income: OECD,25.7
+Slovakia,5.39671,High income: OECD,25.7
+Slovakia,5.411377,High income: OECD,25.7
+Sweden,8.7375,High income: OECD,25.7
+Sweden,8.872284,High income: OECD,25.7
+United Kingdom,52.787446,High income: OECD,25.7
+United Kingdom,54.622769,High income: OECD,25.7
+United Kingdom,56.250124,High income: OECD,25.7
+Uzbekistan,20.03327,Lower middle income,25.7
+China,1035.328572,Upper middle income,25.7
+Kazakhstan,15.13645,Upper middle income,25.7
+Kazakhstan,16.20675,Upper middle income,25.7
+Kazakhstan,16.20675,Upper middle income,25.74
+Austria,8.050884,High income: OECD,25.8
+Austria,8.196624,High income: OECD,25.8
+Czech Republic,10.338381,High income: OECD,25.8
+Czech Republic,10.297977,High income: OECD,25.8
+Czech Republic,10.230877,High income: OECD,25.8
+Finland,4.951886,High income: OECD,25.8
+Finland,5.140755,High income: OECD,25.8
+Finland,5.2138,High income: OECD,25.8
+Finland,5.395816,High income: OECD,25.8
+Germany,78.51479,High income: OECD,25.8
+Luxembourg,0.366884,High income: OECD,25.8
+Luxembourg,0.451826,High income: OECD,25.8
+Netherlands,14.915139,High income: OECD,25.8
+Netherlands,15.636131,High income: OECD,25.8
+Netherlands,16.689863,High income: OECD,25.8
+Poland,34.468877,High income: OECD,25.8
+Poland,37.208529,High income: OECD,25.8
+Spain,38.950965,High income: OECD,25.8
+Sweden,8.911899,High income: OECD,25.8
+United Kingdom,53.97101,High income: OECD,25.8
+United Kingdom,56.23102,High income: OECD,25.8
+Armenia,3.325992,Lower middle income,25.8
+Moldova,4.359496,Lower middle income,25.8
+Ukraine,51.50148,Lower middle income,25.8
+Bulgaria,8.840131,Upper middle income,25.8
+China,1035.328572,Upper middle income,25.8
+Romania,23.454143,Upper middle income,25.8
+Soviet Union,,,25.8
+Yugoslavia,,,25.8
+Slovakia,5.372115,High income: OECD,25.81
+Czech Republic,10.326682,High income: OECD,25.82
+Norway,4.891251,High income: OECD,25.86
+Slovakia,5.387734,High income: OECD,25.86
+Denmark,5.398645,High income: OECD,25.89
+Russia,147.568552,High income: non-OECD,25.9
+Taiwan,17.704538,High income: non-OECD,25.9
+Australia,17.325818,High income: OECD,25.9
+Belgium,10.779155,High income: OECD,25.9
+Belgium,11.153122,High income: OECD,25.9
+Belgium,11.226322,High income: OECD,25.9
+Czech Republic,10.313836,High income: OECD,25.9
+Czech Republic,10.230877,High income: OECD,25.9
+Czech Republic,10.271476,High income: OECD,25.9
+Czech Republic,10.545314,High income: OECD,25.9
+Finland,5.16478,High income: OECD,25.9
+Finland,5.2666,High income: OECD,25.9
+Finland,5.31417,High income: OECD,25.9
+Finland,5.340485,High income: OECD,25.9
+Finland,5.424644,High income: OECD,25.9
+Germany,81.993831,High income: OECD,25.9
+Germany,82.010184,High income: OECD,25.9
+Germany,81.96583,High income: OECD,25.9
+Hungary,10.224113,High income: OECD,25.9
+Luxembourg,0.414,High income: OECD,25.9
+Norway,5.018367,High income: OECD,25.9
+Slovakia,5.406896,High income: OECD,25.9
+Slovenia,2.005535,High income: OECD,25.9
+Spain,39.110106,High income: OECD,25.9
+Sweden,9.226333,High income: OECD,25.9
+Armenia,3.325992,Lower middle income,25.9
+Bangladesh,95.550798,Lower middle income,25.9
+Kyrgyzstan,4.089478,Lower middle income,25.9
+"Macedonia, former Yugoslav Republic of",1.969345,Upper middle income,25.9
+Romania,23.373155,Upper middle income,25.9
+Denmark,5.417692,High income: OECD,25.94
+Lithuania,3.68125,High income: non-OECD,26
+Austria,8.000453,High income: OECD,26
+Austria,8.032953,High income: OECD,26
+Austria,8.234858,High income: OECD,26
+Belgium,9.893499,High income: OECD,26
+Czech Republic,10.339439,High income: OECD,26
+Czech Republic,10.225198,High income: OECD,26
+Czech Republic,10.230877,High income: OECD,26
+Czech Republic,10.330487,High income: OECD,26
+Finland,5.200632,High income: OECD,26
+Finland,5.2138,High income: OECD,26
+Finland,5.246368,High income: OECD,26
+Finland,5.367693,High income: OECD,26
+Germany,77.570009,High income: OECD,26
+Germany,78.958237,High income: OECD,26
+Germany,81.870772,High income: OECD,26
+"Korea, Republic of",28.702077,High income: OECD,26
+Latvia,2.667309,High income: OECD,26
+Luxembourg,0.42583,High income: OECD,26
+Luxembourg,0.436107,High income: OECD,26
+Netherlands,15.636131,High income: OECD,26
+Netherlands,15.806771,High income: OECD,26
+Netherlands,15.984365,High income: OECD,26
+Norway,4.285504,High income: OECD,26
+Norway,4.491572,High income: OECD,26
+Poland,31.26236,High income: OECD,26
+Slovakia,5.385192,High income: OECD,26
+Slovenia,2.005535,High income: OECD,26
+Spain,38.85436,High income: OECD,26
+Indonesia,172.418086,Lower middle income,26
+Indonesia,191.693719,Lower middle income,26
+Indonesia,191.693719,Lower middle income,26
+Kyrgyzstan,4.243665,Lower middle income,26
+Kyrgyzstan,4.301702,Lower middle income,26
+Bulgaria,8.815565,Upper middle income,26
+Bulgaria,7.74274,Upper middle income,26
+Soviet Union,,,26
+Yugoslavia,,,26
+Kyrgyzstan,4.243665,Lower middle income,26.01
+Slovakia,5.401951,High income: OECD,26.02
+Slovakia,5.39671,High income: OECD,26.08
+Russia,144.9665,High income: non-OECD,26.1
+Australia,14.368543,High income: OECD,26.1
+Austria,8.331465,High income: OECD,26.1
+Belgium,10.492643,High income: OECD,26.1
+Finland,4.967776,High income: OECD,26.1
+Finland,5.061465,High income: OECD,26.1
+Finland,5.086499,High income: OECD,26.1
+Finland,5.424644,High income: OECD,26.1
+Finland,5.453061,High income: OECD,26.1
+Germany,77.657451,High income: OECD,26.1
+Germany,81.417791,High income: OECD,26.1
+Germany,81.246801,High income: OECD,26.1
+Luxembourg,0.419974,High income: OECD,26.1
+Luxembourg,0.440198,High income: OECD,26.1
+Norway,4.491572,High income: OECD,26.1
+Slovakia,5.401951,High income: OECD,26.1
+Slovakia,5.406896,High income: OECD,26.1
+Slovakia,5.411377,High income: OECD,26.1
+Slovakia,5.422861,High income: OECD,26.1
+Slovenia,2.005535,High income: OECD,26.1
+Slovenia,1.989042,High income: OECD,26.1
+Sweden,8.616535,High income: OECD,26.1
+Sweden,8.863595,High income: OECD,26.1
+Bangladesh,100.779551,Lower middle income,26.1
+Pakistan,52.205981,Lower middle income,26.1
+Azerbaijan,5.789818,Upper middle income,26.1
+Slovakia,5.415496,High income: OECD,26.12
+Czech Republic,10.545161,High income: OECD,26.13
+Czech Republic,10.460022,High income: OECD,26.18
+Australia,,High income: OECD,26.2
+Austria,8.30129,High income: OECD,26.2
+Belgium,10.854388,High income: OECD,26.2
+Belgium,10.929978,High income: OECD,26.2
+Belgium,,High income: OECD,26.2
+Finland,5.289333,High income: OECD,26.2
+Germany,80.675999,High income: OECD,26.2
+Hungary,10.078461,High income: OECD,26.2
+Luxembourg,0.436107,High income: OECD,26.2
+Netherlands,16.86802,High income: OECD,26.2
+Poland,38.396826,High income: OECD,26.2
+Slovakia,5.382521,High income: OECD,26.2
+Slovakia,5.385192,High income: OECD,26.2
+United Kingdom,55.785325,High income: OECD,26.2
+Bulgaria,8.745408,Upper middle income,26.2
+Bulgaria,8.745408,Upper middle income,26.2
+Turkmenistan,2.946676,Upper middle income,26.2
+Soviet Union,,,26.2
+Soviet Union,,,26.2
+Czech Republic,10.397984,High income: OECD,26.29
+Lithuania,3.68125,High income: non-OECD,26.3
+Malta,0.403076,High income: non-OECD,26.3
+Australia,16.585905,High income: OECD,26.3
+Austria,7.755143,High income: OECD,26.3
+Austria,8.234858,High income: OECD,26.3
+Belgium,10.70483,High income: OECD,26.3
+Belgium,11.005175,High income: OECD,26.3
+Finland,4.726803,High income: OECD,26.3
+Finland,5.31417,High income: OECD,26.3
+Finland,5.367693,High income: OECD,26.3
+Germany,79.483739,High income: OECD,26.3
+Germany,80.07594,High income: OECD,26.3
+Iceland,0.300887,High income: OECD,26.3
+Slovakia,5.386224,High income: OECD,26.3
+Sweden,8.888675,High income: OECD,26.3
+United Kingdom,56.283959,High income: OECD,26.3
+India,1034.976626,Lower middle income,26.3
+Pakistan,89.183159,Lower middle income,26.3
+Pakistan,125.697651,Lower middle income,26.3
+Mongolia,2.335694,Upper middle income,26.3
+Kazakhstan,17.099546,Upper middle income,26.33
+Hungary,10.282937,High income: OECD,26.38
+Czech Republic,10.533985,High income: OECD,26.39
+Norway,4.830371,High income: OECD,26.39
+Turkmenistan,34.292186,Upper middle income,26.39
+Russia,146.8657,High income: non-OECD,26.4
+Belgium,10.632032,High income: OECD,26.4
+Belgium,10.854388,High income: OECD,26.4
+Germany,78.426715,High income: OECD,26.4
+Germany,80.07594,High income: OECD,26.4
+Germany,81.895925,High income: OECD,26.4
+Netherlands,16.401105,High income: OECD,26.4
+Netherlands,16.809157,High income: OECD,26.4
+Netherlands,,High income: OECD,26.4
+Poland,30.97552,High income: OECD,26.4
+Slovakia,5.386065,High income: OECD,26.4
+Slovenia,1.991487,High income: OECD,26.4
+Moldova,4.289659,Lower middle income,26.4
+Uzbekistan,18.71763,Lower middle income,26.4
+China,1052.62241,Upper middle income,26.4
+Romania,23.115921,Upper middle income,26.4
+Turkmenistan,34.292186,Upper middle income,26.4
+Iceland,0.318042,High income: OECD,26.43
+Sweden,8.982282,High income: OECD,26.43
+Indonesia,182.177052,Lower middle income,26.46
+Sweden,9.087251,High income: OECD,26.47
+Belarus,9.695791,Upper middle income,26.48
+Croatia,4.697536,High income: non-OECD,26.5
+Australia,,High income: OECD,26.5
+Australia,17.538387,High income: OECD,26.5
+Austria,8.30129,High income: OECD,26.5
+Belgium,11.079521,High income: OECD,26.5
+Denmark,5.600972,High income: OECD,26.5
+Finland,5.176482,High income: OECD,26.5
+Finland,5.395816,High income: OECD,26.5
+"Korea, Republic of",28.702077,High income: OECD,26.5
+Luxembourg,0.451826,High income: OECD,26.5
+Luxembourg,0.457847,High income: OECD,26.5
+Poland,38.297549,High income: OECD,26.5
+Slovakia,5.406896,High income: OECD,26.5
+Slovenia,2.007918,High income: OECD,26.5
+United Kingdom,55.927492,High income: OECD,26.5
+United Kingdom,56.337848,High income: OECD,26.5
+Ukraine,51.50148,Lower middle income,26.5
+Gabon,0.649719,Upper middle income,26.5
+Turkmenistan,4.449427,Upper middle income,26.5
+Soviet Union,,,26.5
+Indonesia,223.268606,Lower middle income,26.53
+Belarus,9.490962,Upper middle income,26.53
+Slovakia,5.411377,High income: OECD,26.58
+Belarus,9.497294,Upper middle income,26.58
+Australia,13.892674,High income: OECD,26.6
+Austria,8.015256,High income: OECD,26.6
+Austria,8.269372,High income: OECD,26.6
+Belgium,10.161914,High income: OECD,26.6
+Belgium,10.929978,High income: OECD,26.6
+Czech Republic,10.338381,High income: OECD,26.6
+Czech Republic,10.338381,High income: OECD,26.6
+Denmark,5.576577,High income: OECD,26.6
+Finland,5.228842,High income: OECD,26.6
+France,63.842097,High income: OECD,26.6
+Germany,77.566776,High income: OECD,26.6
+Germany,81.6129,High income: OECD,26.6
+Germany,81.895925,High income: OECD,26.6
+Iceland,0.314336,High income: OECD,26.6
+Norway,4.560947,High income: OECD,26.6
+United Kingdom,53.605144,High income: OECD,26.6
+Uganda,9.446024,Low income,26.6
+Pakistan,55.067366,Lower middle income,26.6
+Azerbaijan,6.739489,Upper middle income,26.6
+China,905.580445,Upper middle income,26.6
+Sweden,9.303432,High income: OECD,26.61
+Czech Republic,10.506617,High income: OECD,26.63
+Ukraine,46.028476,Lower middle income,26.64
+China,1035.328572,Upper middle income,26.69
+Croatia,4.760003,High income: non-OECD,26.7
+Taiwan,18.029982,High income: non-OECD,26.7
+Australia,14.532401,High income: OECD,26.7
+Australia,17.738428,High income: OECD,26.7
+Austria,7.57366,High income: OECD,26.7
+Austria,8.391986,High income: OECD,26.7
+Czech Republic,10.212088,High income: OECD,26.7
+Czech Republic,10.212088,High income: OECD,26.7
+Estonia,1.550072,High income: OECD,26.7
+Finland,4.623389,High income: OECD,26.7
+Finland,5.153229,High income: OECD,26.7
+Finland,5.289333,High income: OECD,26.7
+Germany,78.958237,High income: OECD,26.7
+Hungary,10.168101,High income: OECD,26.7
+Netherlands,16.253397,High income: OECD,26.7
+Norway,4.514907,High income: OECD,26.7
+Poland,38.485892,High income: OECD,26.7
+Slovakia,5.38548,High income: OECD,26.7
+Sweden,8.84942,High income: OECD,26.7
+United Kingdom,56.220089,High income: OECD,26.7
+United Kingdom,56.220089,High income: OECD,26.7
+Georgia,5.218973,Lower middle income,26.7
+Moldova,4.364114,Lower middle income,26.7
+Pakistan,107.607639,Lower middle income,26.7
+Kazakhstan,16.098356,Upper middle income,26.7
+"Macedonia, former Yugoslav Republic of",1.988458,Upper middle income,26.7
+Romania,23.255683,Upper middle income,26.7
+Kosovo,,Lower middle income,26.71
+Czech Republic,10.271476,High income: OECD,26.74
+Austria,8.196624,High income: OECD,26.8
+Austria,8.361362,High income: OECD,26.8
+Czech Republic,10.212088,High income: OECD,26.8
+Denmark,5.624293,High income: OECD,26.8
+Finland,5.108176,High income: OECD,26.8
+Germany,81.206786,High income: OECD,26.8
+Germany,81.055904,High income: OECD,26.8
+Hungary,10.442721,High income: OECD,26.8
+Hungary,10.141471,High income: OECD,26.8
+Netherlands,14.915139,High income: OECD,26.8
+Poland,30.32962,High income: OECD,26.8
+Poland,38.094812,High income: OECD,26.8
+Poland,38.195258,High income: OECD,26.8
+Slovakia,5.384237,High income: OECD,26.8
+Spain,37.704867,High income: OECD,26.8
+Switzerland,7.345299,High income: OECD,26.8
+Yugoslavia,,,26.8
+Sweden,9.382297,High income: OECD,26.81
+Kyrgyzstan,5.843617,Lower middle income,26.82
+Moldova,4.07234,Lower middle income,26.83
+Hungary,10.168101,High income: OECD,26.84
+Denmark,5.466988,High income: OECD,26.85
+Slovakia,5.39671,High income: OECD,26.87
+Poland,38.094812,High income: OECD,26.89
+Russia,147.568552,High income: non-OECD,26.9
+Austria,8.196624,High income: OECD,26.9
+Belgium,10.561436,High income: OECD,26.9
+Belgium,10.70483,High income: OECD,26.9
+Denmark,5.523755,High income: OECD,26.9
+Denmark,5.550959,High income: OECD,26.9
+Germany,78.426715,High income: OECD,26.9
+Hungary,10.409854,High income: OECD,26.9
+Hungary,9.988846,High income: OECD,26.9
+Iceland,0.296745,High income: OECD,26.9
+Netherlands,16.331646,High income: OECD,26.9
+Slovakia,5.384237,High income: OECD,26.9
+Slovenia,2.007918,High income: OECD,26.9
+Sweden,9.303432,High income: OECD,26.9
+Sweden,9.382297,High income: OECD,26.9
+Armenia,3.421978,Lower middle income,26.9
+Armenia,3.544695,Lower middle income,26.9
+Hungary,10.195978,High income: OECD,26.92
+Sweden,9.153316,High income: OECD,26.92
+Bangladesh,93.015182,Lower middle income,26.92
+Iceland,0.323407,High income: OECD,26.94
+Czech Republic,10.230877,High income: OECD,26.95
+Hungary,10.034951,High income: OECD,26.97
+Latvia,2.568603,High income: OECD,26.99
+Cyprus,0.717836,High income: non-OECD,27
+Malta,0.397094,High income: non-OECD,27
+Australia,14.054956,High income: OECD,27
+Austria,7.972833,High income: OECD,27
+Austria,8.486962,High income: OECD,27
+Belgium,10.201758,High income: OECD,27
+Belgium,10.216867,High income: OECD,27
+Belgium,10.492643,High income: OECD,27
+Czech Republic,10.26301,High income: OECD,27
+Czech Republic,10.230877,High income: OECD,27
+Denmark,5.079962,High income: OECD,27
+France,60.290831,High income: OECD,27
+France,60.799015,High income: OECD,27
+France,61.456854,High income: OECD,27
+France,61.847608,High income: OECD,27
+France,62.262671,High income: OECD,27
+Germany,81.206786,High income: OECD,27
+Germany,81.870772,High income: OECD,27
+Germany,81.809438,High income: OECD,27
+Hungary,10.063,High income: OECD,27
+Hungary,10.141471,High income: OECD,27
+Latvia,2.568603,High income: OECD,27
+Luxembourg,0.431264,High income: OECD,27
+Luxembourg,0.440198,High income: OECD,27
+Luxembourg,0.451826,High income: OECD,27
+Luxembourg,0.507889,High income: OECD,27
+Netherlands,16.076427,High income: OECD,27
+Netherlands,16.167421,High income: OECD,27
+New Zealand,3.290132,High income: OECD,27
+Poland,27.74388,High income: OECD,27
+Sweden,8.788696,High income: OECD,27
+Indonesia,200.786111,Lower middle income,27
+Kyrgyzstan,4.301702,Lower middle income,27
+"Micronesia, Federated States of",0.108082,Lower middle income,27
+Pakistan,98.301647,Lower middle income,27
+China,1202.982955,Upper middle income,27
+Cuba,9.634028,Upper middle income,27
+"Macedonia, former Yugoslav Republic of",1.953544,Upper middle income,27
+Ukraine,46.249196,Lower middle income,27.01
+Iceland,0.32103,High income: OECD,27.03
+Denmark,5.440696,High income: OECD,27.08
+Croatia,4.776374,High income: non-OECD,27.1
+Malta,0.399892,High income: non-OECD,27.1
+Malta,0.415596,High income: non-OECD,27.1
+Russia,147.3517,High income: non-OECD,27.1
+Taiwan,19.19151,High income: non-OECD,27.1
+Taiwan,19.411454,High income: non-OECD,27.1
+Australia,14.211657,High income: OECD,27.1
+Luxembourg,0.507889,High income: OECD,27.1
+Netherlands,15.019184,High income: OECD,27.1
+New Zealand,3.268192,High income: OECD,27.1
+Poland,37.703942,High income: OECD,27.1
+Poland,38.396826,High income: OECD,27.1
+Slovenia,2.062881,High income: OECD,27.1
+Sweden,8.559107,High income: OECD,27.1
+Sweden,9.030163,High income: OECD,27.1
+Azerbaijan,5.393681,Upper middle income,27.1
+"Macedonia, former Yugoslav Republic of",1.984242,Upper middle income,27.1
+Romania,23.454143,Upper middle income,27.1
+Romania,23.373155,Upper middle income,27.1
+Czechoslovakia,,,27.1
+Finland,5.424644,High income: OECD,27.12
+Sweden,9.226333,High income: OECD,27.13
+Norway,4.771633,High income: OECD,27.14
+Belarus,9.487674,Upper middle income,27.15
+Belarus,9.500422,Upper middle income,27.18
+Malta,0.414075,High income: non-OECD,27.2
+Taiwan,20.503568,High income: non-OECD,27.2
+Australia,,High income: OECD,27.2
+Austria,,High income: OECD,27.2
+Czech Republic,10.244261,High income: OECD,27.2
+Hungary,10.195978,High income: OECD,27.2
+Hungary,10.064138,High income: OECD,27.2
+Hungary,10.034951,High income: OECD,27.2
+Hungary,9.958334,High income: OECD,27.2
+Luxembourg,0.519981,High income: OECD,27.2
+Netherlands,14.471591,High income: OECD,27.2
+Netherlands,16.575173,High income: OECD,27.2
+Norway,4.440109,High income: OECD,27.2
+Poland,29.58984,High income: OECD,27.2
+Uganda,9.446024,Low income,27.2
+Tajikistan,4.715514,Lower middle income,27.2
+Belarus,10.005259,Upper middle income,27.2
+China,1019.698475,Upper middle income,27.2
+"Macedonia, former Yugoslav Republic of",1.964924,Upper middle income,27.2
+Soviet Union,,,27.2
+Yugoslavia,,,27.2
+Romania,20.111664,Upper middle income,27.21
+Hungary,10.224113,High income: OECD,27.22
+Sweden,9.462352,High income: OECD,27.24
+Slovakia,5.401951,High income: OECD,27.27
+Norway,4.667105,High income: OECD,27.29
+Czech Republic,10.244261,High income: OECD,27.3
+Czech Republic,10.225198,High income: OECD,27.3
+Czech Republic,10.211846,High income: OECD,27.3
+France,63.470828,High income: OECD,27.3
+Hungary,10.370223,High income: OECD,27.3
+Hungary,10.370223,High income: OECD,27.3
+Iceland,0.310033,High income: OECD,27.3
+Luxembourg,0.465546,High income: OECD,27.3
+Luxembourg,0.474705,High income: OECD,27.3
+Norway,4.466468,High income: OECD,27.3
+Slovenia,2.007918,High income: OECD,27.3
+Slovenia,2.000783,High income: OECD,27.3
+Sweden,9.462352,High income: OECD,27.3
+Switzerland,7.242034,High income: OECD,27.3
+Sri Lanka,12.487493,Lower middle income,27.3
+China,888.132761,Upper middle income,27.3
+Kazakhstan,15.94612,Upper middle income,27.3
+"Macedonia, former Yugoslav Republic of",1.956165,Upper middle income,27.3
+Serbia and Montenegro,,,27.3
+Serbia and Montenegro,,,27.3
+Slovakia,5.406896,High income: OECD,27.32
+Sweden,9.543457,High income: OECD,27.32
+Romania,19.944954,Upper middle income,27.33
+Croatia,4.316425,High income: non-OECD,27.35
+Kyrgyzstan,5.64823,Lower middle income,27.36
+Malta,0.409475,High income: non-OECD,27.4
+Taiwan,15.220495,High income: non-OECD,27.4
+Austria,8.155466,High income: OECD,27.4
+Austria,8.423559,High income: OECD,27.4
+Canada,27.296517,High income: OECD,27.4
+Denmark,,High income: OECD,27.4
+Finland,5.126021,High income: OECD,27.4
+Germany,80.675999,High income: OECD,27.4
+Hungary,10.117213,High income: OECD,27.4
+Latvia,2.667309,High income: OECD,27.4
+Luxembourg,0.474705,High income: OECD,27.4
+Poland,38.396826,High income: OECD,27.4
+Slovakia,5.384237,High income: OECD,27.4
+Ethiopia,87.561814,Low income,27.4
+Sri Lanka,10.623594,Lower middle income,27.4
+Kazakhstan,16.554305,Upper middle income,27.42
+Romania,19.794163,Upper middle income,27.45
+Kazakhstan,16.821455,Upper middle income,27.46
+Finland,5.340485,High income: OECD,27.47
+Croatia,4.732864,High income: non-OECD,27.5
+Russia,147.3517,High income: non-OECD,27.5
+Australia,19.308681,High income: OECD,27.5
+Austria,8.361362,High income: OECD,27.5
+Belgium,10.779155,High income: OECD,27.5
+Italy,57.029614,High income: OECD,27.5
+Poland,38.094812,High income: OECD,27.5
+Slovakia,5.385192,High income: OECD,27.5
+Slovenia,1.995615,High income: OECD,27.5
+Azerbaijan,7.046429,Upper middle income,27.5
+Belarus,10.159731,Upper middle income,27.5
+Serbia and Montenegro,,,27.5
+Soviet Union,,,27.5
+Yugoslavia,,,27.5
+Czech Republic,10.212088,High income: OECD,27.53
+Hungary,10.050699,High income: OECD,27.53
+Belarus,9.640616,Upper middle income,27.55
+Bangladesh,108.509679,Lower middle income,27.57
+Belgium,11.079521,High income: OECD,27.59
+Indonesia,200.786111,Lower middle income,27.59
+Austria,8.455477,High income: OECD,27.6
+Austria,8.516916,High income: OECD,27.6
+Canada,27.66244,High income: OECD,27.6
+Canada,28.014102,High income: OECD,27.6
+France,60.531978,High income: OECD,27.6
+Hungary,10.095964,High income: OECD,27.6
+Hungary,10.064138,High income: OECD,27.6
+Luxembourg,0.447321,High income: OECD,27.6
+Luxembourg,0.496257,High income: OECD,27.6
+Luxembourg,0.519981,High income: OECD,27.6
+Netherlands,16.463031,High income: OECD,27.6
+Netherlands,16.519862,High income: OECD,27.6
+Norway,4.589241,High income: OECD,27.6
+Slovenia,2.000783,High income: OECD,27.6
+India,1230.984504,Lower middle income,27.6
+Pakistan,113.616165,Lower middle income,27.6
+Pakistan,116.579605,Lower middle income,27.6
+Sri Lanka,18.783745,Lower middle income,27.6
+Tajikistan,5.148306,Lower middle income,27.6
+Kazakhstan,16.26506,Upper middle income,27.6
+Soviet Union,,,27.6
+Finland,5.246368,High income: OECD,27.64
+Hungary,10.25311,High income: OECD,27.64
+Finland,5.395816,High income: OECD,27.66
+Belarus,9.505319,Upper middle income,27.69
+Malta,0.417723,High income: non-OECD,27.7
+Taiwan,15.220495,High income: non-OECD,27.7
+Taiwan,17.704538,High income: non-OECD,27.7
+Austria,7.972833,High income: OECD,27.7
+Austria,8.331465,High income: OECD,27.7
+Denmark,5.646899,High income: OECD,27.7
+France,60.055803,High income: OECD,27.7
+France,63.084614,High income: OECD,27.7
+Luxembourg,0.457847,High income: OECD,27.7
+Luxembourg,0.474705,High income: OECD,27.7
+Luxembourg,0.485079,High income: OECD,27.7
+Netherlands,16.463031,High income: OECD,27.7
+Georgia,5.398106,Lower middle income,27.7
+India,870.601776,Lower middle income,27.7
+Belarus,10.051298,Upper middle income,27.7
+China,849.787991,Upper middle income,27.7
+"Macedonia, former Yugoslav Republic of",1.999362,Upper middle income,27.7
+"Macedonia, former Yugoslav Republic of",2.012051,Upper middle income,27.7
+Romania,23.115921,Upper middle income,27.7
+Croatia,4.456298,High income: non-OECD,27.71
+Slovakia,5.387734,High income: OECD,27.71
+Indonesia,172.418086,Lower middle income,27.73
+Finland,5.367693,High income: OECD,27.74
+Lithuania,3.68125,High income: non-OECD,27.8
+Russia,147.3517,High income: non-OECD,27.8
+Australia,14.708323,High income: OECD,27.8
+Belgium,10.632032,High income: OECD,27.8
+Canada,27.296517,High income: OECD,27.8
+Estonia,1.569187,High income: OECD,27.8
+France,60.290831,High income: OECD,27.8
+France,61.105231,High income: OECD,27.8
+Hungary,10.034951,High income: OECD,27.8
+Japan,116.821569,High income: OECD,27.8
+Japan,119.318921,High income: OECD,27.8
+Luxembourg,0.465546,High income: OECD,27.8
+Netherlands,14.325363,High income: OECD,27.8
+Netherlands,16.749318,High income: OECD,27.8
+New Zealand,3.290132,High income: OECD,27.8
+Norway,4.385951,High income: OECD,27.8
+Slovenia,1.996522,High income: OECD,27.8
+United Kingdom,56.415196,High income: OECD,27.8
+Afghanistan,27.65889,Low income,27.8
+Kazakhstan,16.310624,Upper middle income,27.8
+Kosovo,,Lower middle income,27.83
+Belarus,9.526453,Upper middle income,27.83
+Kyrgyzstan,5.553827,Lower middle income,27.84
+Finland,5.31417,High income: OECD,27.85
+Malta,0.416747,High income: non-OECD,27.9
+Australia,19.107251,High income: OECD,27.9
+Hungary,10.095964,High income: OECD,27.9
+Iceland,0.305415,High income: OECD,27.9
+Luxembourg,0.507889,High income: OECD,27.9
+Norway,4.334434,High income: OECD,27.9
+Indonesia,226.254703,Lower middle income,27.9
+Belarus,9.594233,Upper middle income,27.9
+China,808.510713,Upper middle income,27.9
+Turkmenistan,3.572311,Upper middle income,27.9
+Finland,5.228842,High income: OECD,27.92
+Hungary,10.064138,High income: OECD,27.94
+Netherlands,16.749318,High income: OECD,27.99
+Taiwan,16.401413,High income: non-OECD,28
+Australia,14.898019,High income: OECD,28
+Austria,7.589573,High income: OECD,28
+Austria,7.929911,High income: OECD,28
+Belgium,10.185077,High income: OECD,28
+Belgium,10.311331,High income: OECD,28
+Belgium,10.561436,High income: OECD,28
+Estonia,1.570926,High income: OECD,28
+Finland,5.16478,High income: OECD,28
+France,58.418028,High income: OECD,28
+France,60.531978,High income: OECD,28
+France,61.105231,High income: OECD,28
+Germany,81.699829,High income: OECD,28
+Germany,81.569481,High income: OECD,28
+Germany,81.417791,High income: OECD,28
+Hungary,10.363797,High income: OECD,28
+Iceland,0.305415,High income: OECD,28
+Iceland,0.305415,High income: OECD,28
+Luxembourg,0.414,High income: OECD,28
+Luxembourg,0.532479,High income: OECD,28
+Netherlands,16.401105,High income: OECD,28
+Slovakia,5.391728,High income: OECD,28
+Armenia,3.515614,Lower middle income,28
+Bangladesh,68.658472,Lower middle income,28
+Bangladesh,68.658472,Lower middle income,28
+Egypt,38.62441,Lower middle income,28
+Georgia,5.398106,Lower middle income,28
+Indonesia,162.192254,Lower middle income,28
+Uzbekistan,20.03327,Lower middle income,28
+Albania,3.092034,Upper middle income,28
+Belarus,10.091181,Upper middle income,28
+China,1227.841281,Upper middle income,28
+China,1238.234851,Upper middle income,28
+Cuba,9.001355,Upper middle income,28
+Finland,5.2666,High income: OECD,28.02
+Norway,4.716584,High income: OECD,28.07
+Malta,0.406392,High income: non-OECD,28.1
+Malta,,High income: non-OECD,28.1
+Taiwan,18.029982,High income: non-OECD,28.1
+Australia,14.898019,High income: OECD,28.1
+Canada,26.919036,High income: OECD,28.1
+Canada,27.66244,High income: OECD,28.1
+Canada,28.014102,High income: OECD,28.1
+Finland,5.188446,High income: OECD,28.1
+Finland,5.200632,High income: OECD,28.1
+France,63.084614,High income: OECD,28.1
+Germany,78.426715,High income: OECD,28.1
+Hungary,10.311227,High income: OECD,28.1
+Japan,118.552097,High income: OECD,28.1
+Netherlands,14.471591,High income: OECD,28.1
+Norway,4.412958,High income: OECD,28.1
+Poland,38.553355,High income: OECD,28.1
+Slovakia,5.387734,High income: OECD,28.1
+Sweden,8.21863,High income: OECD,28.1
+Tajikistan,5.148306,Lower middle income,28.1
+Kazakhstan,16.26506,Upper middle income,28.1
+Soviet Union,,,28.1
+Iceland,0.293084,High income: OECD,28.11
+"Macedonia, former Yugoslav Republic of",1.984242,Upper middle income,28.13
+Bulgaria,7.568378,Upper middle income,28.14
+Romania,20.298838,Upper middle income,28.16
+Netherlands,16.689863,High income: OECD,28.17
+Serbia,7.350222,Upper middle income,28.18
+Romania,20.510263,Upper middle income,28.19
+Australia,13.364238,High income: OECD,28.2
+Australia,18.906936,High income: OECD,28.2
+Austria,8.423559,High income: OECD,28.2
+Czech Republic,10.335556,High income: OECD,28.2
+France,62.262671,High income: OECD,28.2
+France,62.680418,High income: OECD,28.2
+Germany,81.569481,High income: OECD,28.2
+Hungary,10.364661,High income: OECD,28.2
+Hungary,10.311227,High income: OECD,28.2
+Hungary,,High income: OECD,28.2
+Latvia,2.458305,High income: OECD,28.2
+Norway,4.624388,High income: OECD,28.2
+India,852.73616,Lower middle income,28.2
+Uzbekistan,20.03327,Lower middle income,28.2
+Belarus,10.126941,Upper middle income,28.2
+"Macedonia, former Yugoslav Republic of",2.028706,Upper middle income,28.2
+Romania,23.115921,Upper middle income,28.2
+Belgium,10.632032,High income: OECD,28.26
+Belarus,9.594233,Upper middle income,28.28
+Finland,5.289333,High income: OECD,28.29
+Taiwan,18.354855,High income: non-OECD,28.3
+Australia,15.101227,High income: OECD,28.3
+Australia,18.12477,High income: OECD,28.3
+Australia,22.162863,High income: OECD,28.3
+Australia,22.542371,High income: OECD,28.3
+Austria,8.391986,High income: OECD,28.3
+Belgium,9.842453,High income: OECD,28.3
+Belgium,10.426169,High income: OECD,28.3
+Canada,26.541981,High income: OECD,28.3
+Canada,27.296517,High income: OECD,28.3
+Canada,28.353843,High income: OECD,28.3
+Canada,28.995822,High income: OECD,28.3
+France,62.680418,High income: OECD,28.3
+Germany,80.477952,High income: OECD,28.3
+Hungary,10.370223,High income: OECD,28.3
+Hungary,10.078461,High income: OECD,28.3
+Hungary,9.924507,High income: OECD,28.3
+Latvia,2.568603,High income: OECD,28.3
+Netherlands,14.181967,High income: OECD,28.3
+Netherlands,16.575173,High income: OECD,28.3
+New Zealand,3.188664,High income: OECD,28.3
+Norway,4.589241,High income: OECD,28.3
+Poland,38.195258,High income: OECD,28.3
+Bangladesh,110.987459,Lower middle income,28.3
+China,1238.234851,Upper middle income,28.3
+Netherlands,16.575173,High income: OECD,28.38
+Croatia,4.491742,High income: non-OECD,28.4
+Taiwan,15.220495,High income: non-OECD,28.4
+Taiwan,16.730895,High income: non-OECD,28.4
+Taiwan,21.267653,High income: non-OECD,28.4
+Canada,24.768525,High income: OECD,28.4
+Canada,24.768525,High income: OECD,28.4
+Canada,26.919036,High income: OECD,28.4
+Canada,28.995822,High income: OECD,28.4
+France,60.799015,High income: OECD,28.4
+France,61.847608,High income: OECD,28.4
+Hungary,10.282937,High income: OECD,28.4
+Japan,117.708919,High income: OECD,28.4
+Luxembourg,0.544885,High income: OECD,28.4
+Netherlands,13.827329,High income: OECD,28.4
+Netherlands,16.331646,High income: OECD,28.4
+Poland,38.485892,High income: OECD,28.4
+Sweden,8.457108,High income: OECD,28.4
+India,960.874982,Lower middle income,28.4
+Pakistan,89.183159,Lower middle income,28.4
+Pakistan,125.697651,Lower middle income,28.4
+Belarus,10.159731,Upper middle income,28.4
+China,1019.698475,Upper middle income,28.4
+Romania,22.633398,Upper middle income,28.4
+Serbia and Montenegro,,,28.4
+Soviet Union,,,28.4
+Slovenia,1.988166,High income: OECD,28.41
+Belgium,11.005175,High income: OECD,28.43
+China,1202.982955,Upper middle income,28.47
+Taiwan,17.372779,High income: non-OECD,28.5
+Canada,24.515788,High income: OECD,28.5
+Finland,5.140755,High income: OECD,28.5
+Germany,81.417791,High income: OECD,28.5
+Israel,,High income: OECD,28.5
+"Korea, Republic of",27.989302,High income: OECD,28.5
+Latvia,2.487988,High income: OECD,28.5
+Luxembourg,,High income: OECD,28.5
+Switzerland,7.165581,High income: OECD,28.5
+Switzerland,8.118719,High income: OECD,28.5
+United Kingdom,56.519444,High income: OECD,28.5
+India,607.446519,Lower middle income,28.5
+Belgium,10.929978,High income: OECD,28.53
+Moldova,4.073714,Lower middle income,28.53
+Kazakhstan,15.755242,Upper middle income,28.54
+Kazakhstan,16.310624,Upper middle income,28.56
+Belarus,9.492122,Upper middle income,28.57
+India,924.475633,Lower middle income,28.59
+Malta,0.412064,High income: non-OECD,28.6
+Canada,25.017501,High income: OECD,28.6
+Canada,26.541981,High income: OECD,28.6
+Canada,28.014102,High income: OECD,28.6
+Canada,28.680921,High income: OECD,28.6
+Canada,28.680921,High income: OECD,28.6
+Germany,77.864381,High income: OECD,28.6
+Germany,80.435307,High income: OECD,28.6
+Hungary,9.88954,High income: OECD,28.6
+Iceland,0.300887,High income: OECD,28.6
+Netherlands,16.519862,High income: OECD,28.6
+India,924.475633,Lower middle income,28.6
+China,977.837433,Upper middle income,28.6
+"Macedonia, former Yugoslav Republic of",2.021585,Upper middle income,28.6
+Romania,23.115921,Upper middle income,28.6
+Ukraine,47.493771,Lower middle income,28.66
+Serbia,7.320807,Upper middle income,28.67
+Cyprus,0.73854,High income: non-OECD,28.7
+Taiwan,15.784817,High income: non-OECD,28.7
+Taiwan,17.042272,High income: non-OECD,28.7
+Taiwan,18.653146,High income: non-OECD,28.7
+Taiwan,18.929866,High income: non-OECD,28.7
+Taiwan,21.634124,High income: non-OECD,28.7
+Belgium,10.854388,High income: OECD,28.7
+Canada,26.181342,High income: OECD,28.7
+Canada,27.66244,High income: OECD,28.7
+Canada,28.014102,High income: OECD,28.7
+Canada,28.995822,High income: OECD,28.7
+France,61.105231,High income: OECD,28.7
+France,61.456854,High income: OECD,28.7
+Germany,81.417791,High income: OECD,28.7
+Germany,80.665906,High income: OECD,28.7
+Italy,56.839859,High income: OECD,28.7
+Japan,105.142875,High income: OECD,28.7
+Luxembourg,0.556573,High income: OECD,28.7
+Ethiopia,57.237226,Low income,28.7
+India,1263.589639,Lower middle income,28.7
+Kyrgyzstan,4.301702,Lower middle income,28.7
+Pakistan,107.607639,Lower middle income,28.7
+Romania,22.965125,Upper middle income,28.7
+Romania,22.965125,Upper middle income,28.7
+Kyrgyzstan,5.050867,Lower middle income,28.71
+Austria,8.234858,High income: OECD,28.72
+Netherlands,16.631571,High income: OECD,28.73
+Iceland,0.314336,High income: OECD,28.74
+Kazakhstan,16.098356,Upper middle income,28.79
+Cyprus,0.750965,High income: non-OECD,28.8
+Australia,18.31834,High income: OECD,28.8
+Canada,25.848173,High income: OECD,28.8
+Canada,29.299478,High income: OECD,28.8
+France,58.092992,High income: OECD,28.8
+France,63.084614,High income: OECD,28.8
+Germany,80.519685,High income: OECD,28.8
+Germany,80.435307,High income: OECD,28.8
+Ireland,4.558603,High income: OECD,28.8
+Luxembourg,0.485079,High income: OECD,28.8
+Netherlands,16.631571,High income: OECD,28.8
+Sweden,8.788696,High income: OECD,28.8
+Switzerland,8.022628,High income: OECD,28.8
+India,553.943226,Lower middle income,28.8
+China,1005.328574,Upper middle income,28.8
+China,1071.834975,Upper middle income,28.8
+Kazakhstan,15.915966,Upper middle income,28.8
+Serbia and Montenegro,,,28.8
+Kyrgyzstan,5.745698,Lower middle income,28.82
+Belarus,9.758817,Upper middle income,28.82
+Denmark,5.523755,High income: OECD,28.84
+Denmark,5.495302,High income: OECD,28.89
+Montenegro,0.621952,Upper middle income,28.89
+Barbados,0.25308,High income: non-OECD,28.9
+Taiwan,22.18453,High income: non-OECD,28.9
+Australia,15.318254,High income: OECD,28.9
+Canada,26.541981,High income: OECD,28.9
+Canada,29.299478,High income: OECD,28.9
+Germany,77.566776,High income: OECD,28.9
+Germany,77.671877,High income: OECD,28.9
+Germany,78.146938,High income: OECD,28.9
+Hungary,10.370223,High income: OECD,28.9
+Norway,4.491572,High income: OECD,28.9
+Slovenia,2.017452,High income: OECD,28.9
+Switzerland,7.925813,High income: OECD,28.9
+Rwanda,5.877556,Low income,28.9
+India,473.660457,Lower middle income,28.9
+Bulgaria,8.653527,Upper middle income,28.9
+China,950.537317,Upper middle income,28.9
+Kazakhstan,16.26506,Upper middle income,28.9
+Kazakhstan,16.554305,Upper middle income,28.9
+Serbia and Montenegro,,,28.9
+Soviet Union,,,28.9
+Indonesia,229.26398,Lower middle income,28.92
+Bulgaria,7.805041,Upper middle income,28.92
+Ukraine,51.216988,Lower middle income,28.93
+Ukraine,47.12711,Lower middle income,28.93
+Hungary,9.988846,High income: OECD,28.94
+Slovakia,5.384237,High income: OECD,28.94
+Kosovo,,Lower middle income,28.95
+Hungary,10.078461,High income: OECD,28.96
+Ukraine,49.196895,Lower middle income,28.96
+Albania,2.880667,Upper middle income,28.96
+Croatia,4.390291,High income: non-OECD,29
+Cyprus,0.6704,High income: non-OECD,29
+Cyprus,0.786632,High income: non-OECD,29
+Taiwan,19.19151,High income: non-OECD,29
+Belgium,10.161914,High income: OECD,29
+Belgium,10.237402,High income: OECD,29
+Belgium,10.779155,High income: OECD,29
+Finland,5.176482,High income: OECD,29
+France,56.402568,High income: OECD,29
+France,59.55646,High income: OECD,29
+France,59.811881,High income: OECD,29
+France,60.055803,High income: OECD,29
+France,60.290831,High income: OECD,29
+France,60.799015,High income: OECD,29
+Germany,81.6129,High income: OECD,29
+Germany,81.699829,High income: OECD,29
+Germany,81.055904,High income: OECD,29
+Germany,80.424665,High income: OECD,29
+Hungary,10.409854,High income: OECD,29
+Hungary,9.958334,High income: OECD,29
+Ireland,3.901688,High income: OECD,29
+Italy,57.147081,High income: OECD,29
+Italy,57.359179,High income: OECD,29
+"Korea, Republic of",42.08505,High income: OECD,29
+Luxembourg,0.408148,High income: OECD,29
+Netherlands,14.723266,High income: OECD,29
+Netherlands,15.450803,High income: OECD,29
+Netherlands,15.546647,High income: OECD,29
+New Zealand,3.36035,High income: OECD,29
+Poland,38.59186,High income: OECD,29
+Sweden,8.559107,High income: OECD,29
+Afghanistan,26.91153,Low income,29
+Bangladesh,63.199035,Lower middle income,29
+Egypt,27.183948,Lower middle income,29
+Indonesia,151.559397,Lower middle income,29
+China,1227.841281,Upper middle income,29
+Jordan,2.462968,Upper middle income,29
+Suriname,0.304857,Upper middle income,29
+Soviet Union,,,29
+Soviet Union,,,29
+Denmark,5.550959,High income: OECD,29.02
+Ukraine,46.795313,Lower middle income,29.02
+Ukraine,47.890647,Lower middle income,29.05
+Serbia,7.163033,Upper middle income,29.06
+Kazakhstan,15.915966,Upper middle income,29.07
+Denmark,5.600972,High income: OECD,29.08
+China,1238.234851,Upper middle income,29.09
+Taiwan,15.220495,High income: non-OECD,29.1
+Australia,13.55219,High income: OECD,29.1
+Canada,29.590952,High income: OECD,29.1
+France,64.876959,High income: OECD,29.1
+Germany,80.519685,High income: OECD,29.1
+Hungary,10.385061,High income: OECD,29.1
+Hungary,10.095964,High income: OECD,29.1
+Hungary,10.095964,High income: OECD,29.1
+Hungary,9.958334,High income: OECD,29.1
+Italy,57.029614,High income: OECD,29.1
+Italy,57.029614,High income: OECD,29.1
+Japan,119.988663,High income: OECD,29.1
+Poland,38.396826,High income: OECD,29.1
+Poland,38.515359,High income: OECD,29.1
+Sweden,8.413658,High income: OECD,29.1
+United Kingdom,56.797704,High income: OECD,29.1
+Georgia,5.460309,Lower middle income,29.1
+India,517.637103,Lower middle income,29.1
+Bulgaria,8.274662,Upper middle income,29.1
+China,1052.62241,Upper middle income,29.1
+Kazakhstan,16.20675,Upper middle income,29.1
+Slovenia,1.987855,High income: OECD,29.12
+Moldova,4.074754,Lower middle income,29.16
+Slovenia,2.000783,High income: OECD,29.18
+Cyprus,0.850881,High income: non-OECD,29.2
+Australia,15.791043,High income: OECD,29.2
+Australia,18.512971,High income: OECD,29.2
+Australia,18.512971,High income: OECD,29.2
+Canada,25.546736,High income: OECD,29.2
+Canada,26.181342,High income: OECD,29.2
+Canada,28.353843,High income: OECD,29.2
+Canada,29.871092,High income: OECD,29.2
+France,63.842097,High income: OECD,29.2
+France,66.100168,High income: OECD,29.2
+France,,High income: OECD,29.2
+Hungary,10.25311,High income: OECD,29.2
+Luxembourg,0.496257,High income: OECD,29.2
+Netherlands,14.471591,High income: OECD,29.2
+Netherlands,14.915139,High income: OECD,29.2
+Netherlands,15.894016,High income: OECD,29.2
+Norway,4.667105,High income: OECD,29.2
+Niger,3.635292,Low income,29.2
+Georgia,5.398106,Lower middle income,29.2
+India,607.446519,Lower middle income,29.2
+Bulgaria,8.358116,Upper middle income,29.2
+China,1092.646739,Upper middle income,29.2
+Indonesia,162.192254,Lower middle income,29.21
+Qatar,1.178955,High income: non-OECD,29.3
+Australia,13.7254,High income: OECD,29.3
+Austria,7.509746,High income: OECD,29.3
+Canada,25.848173,High income: OECD,29.3
+France,63.470828,High income: OECD,29.3
+France,64.198684,High income: OECD,29.3
+France,64.542997,High income: OECD,29.3
+Germany,80.435307,High income: OECD,29.3
+Germany,80.424665,High income: OECD,29.3
+Hungary,10.385061,High income: OECD,29.3
+Hungary,10.224113,High income: OECD,29.3
+Ireland,4.480145,High income: OECD,29.3
+Japan,120.551455,High income: OECD,29.3
+Latvia,2.434628,High income: OECD,29.3
+Spain,39.192055,High income: OECD,29.3
+Sri Lanka,10.623594,Lower middle income,29.3
+Romania,22.128139,Upper middle income,29.32
+Slovakia,5.385192,High income: OECD,29.33
+Hungary,10.014633,High income: OECD,29.37
+Iceland,0.296745,High income: OECD,29.38
+Taiwan,14.582944,High income: non-OECD,29.4
+Taiwan,15.220495,High income: non-OECD,29.4
+Australia,19.985475,High income: OECD,29.4
+Canada,25.017501,High income: OECD,29.4
+Canada,25.272656,High income: OECD,29.4
+Canada,28.014102,High income: OECD,29.4
+Germany,78.51479,High income: OECD,29.4
+Hungary,10.351994,High income: OECD,29.4
+Hungary,10.334876,High income: OECD,29.4
+Hungary,10.25311,High income: OECD,29.4
+Ireland,4.617334,High income: OECD,29.4
+Israel,2.362058,High income: OECD,29.4
+Netherlands,14.325363,High income: OECD,29.4
+Netherlands,14.634787,High income: OECD,29.4
+Poland,38.550777,High income: OECD,29.4
+Kosovo,,Lower middle income,29.4
+China,1154.605773,Upper middle income,29.4
+Serbia and Montenegro,,,29.4
+Yugoslavia,,,29.4
+Romania,22.288573,Upper middle income,29.42
+Romania,21.983221,Upper middle income,29.43
+Serbia,7.381579,Upper middle income,29.43
+China,1092.646739,Upper middle income,29.45
+Cyprus,0.808035,High income: non-OECD,29.5
+Taiwan,14.913564,High income: non-OECD,29.5
+Australia,15.548591,High income: OECD,29.5
+Finland,5.153229,High income: OECD,29.5
+France,56.402568,High income: OECD,29.5
+Germany,80.854515,High income: OECD,29.5
+Germany,80.854515,High income: OECD,29.5
+Germany,80.565861,High income: OECD,29.5
+Hungary,10.311227,High income: OECD,29.5
+"Korea, Republic of",31.437141,High income: OECD,29.5
+Netherlands,16.463031,High income: OECD,29.5
+Sweden,7.874041,High income: OECD,29.5
+Sweden,8.872284,High income: OECD,29.5
+Switzerland,7.200945,High income: OECD,29.5
+Switzerland,8.211383,High income: OECD,29.5
+India,834.944397,Lower middle income,29.5
+Indonesia,238.465165,Lower middle income,29.5
+Pakistan,58.094239,Lower middle income,29.5
+"Macedonia, former Yugoslav Republic of",1.953544,Upper middle income,29.5
+"Macedonia, former Yugoslav Republic of",1.969345,Upper middle income,29.5
+Denmark,5.576577,High income: OECD,29.54
+Tajikistan,6.094126,Lower middle income,29.54
+Belgium,10.70483,High income: OECD,29.57
+Romania,20.741669,Upper middle income,29.57
+Iceland,0.305415,High income: OECD,29.58
+Armenia,2.966108,Lower middle income,29.58
+Austria,8.269372,High income: OECD,29.59
+Taiwan,19.411454,High income: non-OECD,29.6
+Australia,18.31834,High income: OECD,29.6
+Canada,25.546736,High income: OECD,29.6
+Canada,29.590952,High income: OECD,29.6
+Iceland,0.314336,High income: OECD,29.6
+Israel,1.679924,High income: OECD,29.6
+Netherlands,14.816751,High income: OECD,29.6
+Norway,4.53724,High income: OECD,29.6
+Spain,43.167276,High income: OECD,29.6
+Switzerland,7.830534,High income: OECD,29.6
+Chad,2.942133,Low income,29.6
+Armenia,3.511912,Lower middle income,29.6
+Pakistan,132.01368,Lower middle income,29.6
+Belarus,9.556061,Upper middle income,29.61
+Kazakhstan,15.451752,Upper middle income,29.65
+Serbia,7.291436,Upper middle income,29.65
+Serbia,7.411569,Upper middle income,29.67
+Croatia,4.385045,High income: non-OECD,29.68
+Germany,79.483739,High income: OECD,29.7
+Germany,81.246801,High income: OECD,29.7
+Germany,80.565861,High income: OECD,29.7
+"Korea, Republic of",40.501917,High income: OECD,29.7
+Netherlands,15.450803,High income: OECD,29.7
+Switzerland,7.200945,High income: OECD,29.7
+Switzerland,7.925813,High income: OECD,29.7
+India,484.097671,Lower middle income,29.7
+India,506.173024,Lower middle income,29.7
+India,870.601776,Lower middle income,29.7
+Kazakhstan,16.530027,Upper middle income,29.7
+Ukraine,51.31408,Lower middle income,29.71
+Ukraine,46.502718,Lower middle income,29.79
+Cyprus,0.767125,High income: non-OECD,29.8
+Canada,29.590952,High income: OECD,29.8
+Canada,30.420216,High income: OECD,29.8
+Finland,4.623389,High income: OECD,29.8
+France,64.198684,High income: OECD,29.8
+France,64.876959,High income: OECD,29.8
+Germany,78.958237,High income: OECD,29.8
+Germany,82.010184,High income: OECD,29.8
+Ireland,4.652714,High income: OECD,29.8
+Japan,120.551455,High income: OECD,29.8
+"Korea, Republic of",30.757519,High income: OECD,29.8
+Netherlands,13.369326,High income: OECD,29.8
+Netherlands,14.181967,High income: OECD,29.8
+Slovenia,1.989042,High income: OECD,29.8
+Switzerland,7.737316,High income: OECD,29.8
+Ethiopia,87.561814,Low income,29.8
+India,541.512621,Lower middle income,29.8
+Pakistan,58.094239,Lower middle income,29.8
+Pakistan,170.043918,Lower middle income,29.8
+Romania,22.458737,Upper middle income,29.8
+Ethiopia,74.506974,Low income,29.81
+Romania,21.407619,Upper middle income,29.82
+Slovakia,5.385192,High income: OECD,29.83
+Armenia,2.988117,Lower middle income,29.83
+Netherlands,16.331646,High income: OECD,29.86
+Austria,8.196624,High income: OECD,29.87
+Kyrgyzstan,5.38031,Lower middle income,29.87
+Belgium,10.561436,High income: OECD,29.88
+Russia,148.040354,High income: non-OECD,29.9
+Taiwan,19.617046,High income: non-OECD,29.9
+Canada,25.272656,High income: OECD,29.9
+Estonia,1.570926,High income: OECD,29.9
+France,64.542997,High income: OECD,29.9
+Germany,77.566776,High income: OECD,29.9
+Germany,81.993831,High income: OECD,29.9
+Germany,81.96583,High income: OECD,29.9
+Germany,81.895925,High income: OECD,29.9
+Hungary,10.363797,High income: OECD,29.9
+Hungary,10.361134,High income: OECD,29.9
+Ireland,4.388612,High income: OECD,29.9
+Ireland,4.480145,High income: OECD,29.9
+Ireland,4.667868,High income: OECD,29.9
+Netherlands,14.634787,High income: OECD,29.9
+Slovakia,5.384533,High income: OECD,29.9
+India,888.513869,Lower middle income,29.9
+India,906.461358,Lower middle income,29.9
+Pakistan,58.094239,Lower middle income,29.9
+China,1052.62241,Upper middle income,29.9
+China,1154.605773,Upper middle income,29.9
+Romania,22.288573,Upper middle income,29.9
+Romania,21.722664,Upper middle income,29.91
+France,63.470828,High income: OECD,29.92
+France,63.084614,High income: OECD,29.93
+Netherlands,16.519862,High income: OECD,29.93
+India,1214.182182,Lower middle income,29.95
+Bosnia and Herzegovina,3.799747,Upper middle income,29.97
+Hungary,10.117213,High income: OECD,29.98
+Ethiopia,64.550161,Low income,29.98
+Indonesia,235.360765,Lower middle income,29.98
+Albania,2.968026,Upper middle income,29.98
+Kazakhstan,15.603072,Upper middle income,29.98
+Croatia,4.385045,High income: non-OECD,30
+Croatia,4.378056,High income: non-OECD,30
+Malta,0.38718,High income: non-OECD,30
+Belgium,10.26838,High income: OECD,30
+Canada,29.871092,High income: OECD,30
+Canada,30.145148,High income: OECD,30
+France,55.077848,High income: OECD,30
+Germany,78.732884,High income: OECD,30
+Germany,80.07594,High income: OECD,30
+Ireland,3.076273,High income: OECD,30
+Ireland,3.841574,High income: OECD,30
+Ireland,4.671263,High income: OECD,30
+Israel,1.908364,High income: OECD,30
+Italy,56.997093,High income: OECD,30
+Italy,57.035249,High income: OECD,30
+New Zealand,2.989985,High income: OECD,30
+New Zealand,3.082883,High income: OECD,30
+Poland,38.583109,High income: OECD,30
+United Kingdom,56.122405,High income: OECD,30
+United Kingdom,58.263858,High income: OECD,30
+Guatemala,4.989207,Lower middle income,30
+Kyrgyzstan,4.477038,Lower middle income,30
+Pakistan,55.067366,Lower middle income,30
+China,1135.128009,Upper middle income,30
+China,1216.067023,Upper middle income,30
+Romania,21.722664,Upper middle income,30
+Suriname,0.304857,Upper middle income,30
+Serbia and Montenegro,,,30
+Hungary,10.117213,High income: OECD,30.02
+Montenegro,0.617462,Upper middle income,30.04
+Romania,21.578318,Upper middle income,30.04
+Estonia,1.433076,High income: OECD,30.06
+Nepal,16.337117,Low income,30.06
+India,747.374856,Lower middle income,30.06
+Cyprus,0.72798,High income: non-OECD,30.09
+Cyprus,0.829446,High income: non-OECD,30.1
+Canada,30.701903,High income: OECD,30.1
+France,65.807241,High income: OECD,30.1
+Germany,77.570009,High income: OECD,30.1
+Germany,81.809438,High income: OECD,30.1
+Germany,,High income: OECD,30.1
+Iceland,0.310033,High income: OECD,30.1
+Sweden,8.326196,High income: OECD,30.1
+United Kingdom,56.649375,High income: OECD,30.1
+Georgia,5.398106,Lower middle income,30.1
+India,495.012288,Lower middle income,30.1
+Azerbaijan,8.117742,Upper middle income,30.1
+China,1114.162025,Upper middle income,30.1
+Indonesia,232.29683,Lower middle income,30.11
+Germany,80.424665,High income: OECD,30.13
+India,817.232241,Lower middle income,30.13
+Kyrgyzstan,5.464567,Lower middle income,30.13
+Kyrgyzstan,4.998286,Lower middle income,30.16
+Hungary,10.095964,High income: OECD,30.19
+Croatia,4.255853,High income: non-OECD,30.2
+Taiwan,20.503568,High income: non-OECD,30.2
+Australia,15.791043,High income: OECD,30.2
+Australia,16.849253,High income: OECD,30.2
+Australia,18.12477,High income: OECD,30.2
+Canada,29.871092,High income: OECD,30.2
+Finland,5.200632,High income: OECD,30.2
+Germany,80.665906,High income: OECD,30.2
+Ireland,4.388612,High income: OECD,30.2
+Ireland,4.652714,High income: OECD,30.2
+Japan,127.3179,High income: OECD,30.2
+Poland,38.599825,High income: OECD,30.2
+Slovenia,2.030599,High income: OECD,30.2
+Spain,43.854761,High income: OECD,30.2
+Sweden,8.12156,High income: OECD,30.2
+United Kingdom,63.955654,High income: OECD,30.2
+Armenia,2.988117,Lower middle income,30.2
+India,799.607235,Lower middle income,30.2
+India,942.604211,Lower middle income,30.2
+Pakistan,55.067366,Lower middle income,30.2
+Pakistan,116.579605,Lower middle income,30.2
+Romania,22.804526,Upper middle income,30.2
+Romania,20.979708,Upper middle income,30.21
+Montenegro,0.616389,Upper middle income,30.22
+Romania,21.851988,Upper middle income,30.23
+Austria,8.391986,High income: OECD,30.25
+Iceland,0.300887,High income: OECD,30.25
+Luxembourg,0.451826,High income: OECD,30.25
+Cyprus,0.73854,High income: non-OECD,30.26
+Mongolia,2.355588,Upper middle income,30.27
+Taiwan,19.839704,High income: non-OECD,30.3
+Taiwan,20.055492,High income: non-OECD,30.3
+Australia,8.427065,High income: OECD,30.3
+Australia,11.660398,High income: OECD,30.3
+Australia,18.709175,High income: OECD,30.3
+Finland,5.2138,High income: OECD,30.3
+France,64.876959,High income: OECD,30.3
+Germany,78.732884,High income: OECD,30.3
+Hungary,10.141471,High income: OECD,30.3
+Japan,125.048424,High income: OECD,30.3
+Slovenia,1.990924,High income: OECD,30.3
+Spain,42.475265,High income: OECD,30.3
+Bangladesh,100.779551,Lower middle income,30.3
+Kyrgyzstan,5.027919,Lower middle income,30.3
+Pakistan,56.559367,Lower middle income,30.3
+Gabon,0.678786,Upper middle income,30.3
+Kosovo,,Lower middle income,30.32
+Belarus,9.825802,Upper middle income,30.34
+Netherlands,16.463031,High income: OECD,30.35
+Pakistan,141.282077,Lower middle income,30.37
+Australia,9.90022,High income: OECD,30.4
+Australia,18.709175,High income: OECD,30.4
+Belgium,10.130251,High income: OECD,30.4
+Finland,5.188446,High income: OECD,30.4
+Germany,80.675999,High income: OECD,30.4
+Germany,81.993831,High income: OECD,30.4
+Germany,80.854515,High income: OECD,30.4
+Hungary,10.364661,High income: OECD,30.4
+Israel,3.671264,High income: OECD,30.4
+Italy,56.997093,High income: OECD,30.4
+Japan,119.988663,High income: OECD,30.4
+"Korea, Republic of",31.437141,High income: OECD,30.4
+Luxembourg,0.544885,High income: OECD,30.4
+Poland,38.551489,High income: OECD,30.4
+Poland,38.594217,High income: OECD,30.4
+Spain,39.192055,High income: OECD,30.4
+Switzerland,7.560141,High income: OECD,30.4
+United Kingdom,56.220089,High income: OECD,30.4
+United Kingdom,56.519444,High income: OECD,30.4
+United Kingdom,56.519444,High income: OECD,30.4
+India,553.943226,Lower middle income,30.4
+Pakistan,56.559367,Lower middle income,30.4
+Uzbekistan,20.03327,Lower middle income,30.4
+Romania,22.633398,Upper middle income,30.4
+Tajikistan,8.111894,Lower middle income,30.41
+Austria,8.331465,High income: OECD,30.45
+India,1126.419321,Lower middle income,30.45
+Romania,21.205977,Upper middle income,30.46
+Austria,8.455477,High income: OECD,30.48
+Armenia,2.978339,Lower middle income,30.48
+Montenegro,0.61974,Upper middle income,30.49
+Taiwan,12.137143,High income: non-OECD,30.5
+Taiwan,22.729753,High income: non-OECD,30.5
+Australia,11.435046,High income: OECD,30.5
+Finland,4.738949,High income: OECD,30.5
+France,65.508241,High income: OECD,30.5
+Germany,80.675999,High income: OECD,30.5
+Germany,81.870772,High income: OECD,30.5
+Hungary,10.364661,High income: OECD,30.5
+Israel,4.806983,High income: OECD,30.5
+Israel,4.806983,High income: OECD,30.5
+"Korea, Republic of",30.06912,High income: OECD,30.5
+Norway,3.875719,High income: OECD,30.5
+Norway,4.069626,High income: OECD,30.5
+Poland,38.515359,High income: OECD,30.5
+Poland,38.525752,High income: OECD,30.5
+Poland,38.574682,High income: OECD,30.5
+Slovenia,1.988527,High income: OECD,30.5
+Slovenia,1.988304,High income: OECD,30.5
+Ethiopia,89.858696,Low income,30.5
+India,517.637103,Lower middle income,30.5
+India,852.73616,Lower middle income,30.5
+China,685.9748,Upper middle income,30.5
+Romania,22.804526,Upper middle income,30.5
+Romania,22.633398,Upper middle income,30.5
+Soviet Union,,,30.5
+Yugoslavia,,,30.5
+Tajikistan,7.930929,Lower middle income,30.52
+Hungary,9.958334,High income: OECD,30.55
+China,1154.605773,Upper middle income,30.57
+Austria,8.30129,High income: OECD,30.58
+Belarus,9.891535,Upper middle income,30.58
+Croatia,,High income: non-OECD,30.6
+Finland,5.16478,High income: OECD,30.6
+Germany,81.206786,High income: OECD,30.6
+Ireland,4.040986,High income: OECD,30.6
+"Korea, Republic of",28.702077,High income: OECD,30.6
+"Korea, Republic of",38.665964,High income: OECD,30.6
+"Korea, Republic of",47.901643,High income: OECD,30.6
+Poland,,High income: OECD,30.6
+Slovakia,3.899751,High income: OECD,30.6
+Slovenia,1.988166,High income: OECD,30.6
+Slovenia,1.988652,High income: OECD,30.6
+India,997.81725,Lower middle income,30.6
+Pakistan,56.559367,Lower middle income,30.6
+Pakistan,125.697651,Lower middle income,30.6
+Pakistan,173.669648,Lower middle income,30.6
+Uzbekistan,19.62469,Lower middle income,30.6
+Albania,3.082172,Upper middle income,30.6
+Romania,22.965125,Upper middle income,30.6
+Yugoslavia,,,30.6
+Belgium,10.492643,High income: OECD,30.63
+Moldova,4.077811,Lower middle income,30.63
+Pakistan,181.192646,Lower middle income,30.69
+Singapore,2.880188,High income: non-OECD,30.7
+Taiwan,22.917444,High income: non-OECD,30.7
+Australia,11.880264,High income: OECD,30.7
+Denmark,5.129472,High income: OECD,30.7
+Denmark,5.140332,High income: OECD,30.7
+Germany,82.010184,High income: OECD,30.7
+Germany,81.895925,High income: OECD,30.7
+Germany,80.646262,High income: OECD,30.7
+Ireland,4.617334,High income: OECD,30.7
+"Korea, Republic of",49.608451,High income: OECD,30.7
+Norway,3.875719,High income: OECD,30.7
+Poland,38.618698,High income: OECD,30.7
+Slovenia,1.988077,High income: OECD,30.7
+Slovenia,1.987855,High income: OECD,30.7
+Slovenia,2.005566,High income: OECD,30.7
+Spain,45.209538,High income: OECD,30.7
+Sweden,8.323466,High income: OECD,30.7
+Switzerland,7.737316,High income: OECD,30.7
+Bangladesh,95.550798,Lower middle income,30.7
+India,473.660457,Lower middle income,30.7
+India,593.451889,Lower middle income,30.7
+Indonesia,115.437518,Lower middle income,30.7
+Pakistan,59.690467,Lower middle income,30.7
+China,725.236164,Upper middle income,30.7
+China,1172.327831,Upper middle income,30.7
+Turkmenistan,3.572311,Upper middle income,30.7
+Armenia,2.975029,Lower middle income,30.71
+Bulgaria,8.653527,Upper middle income,30.71
+Netherlands,16.253397,High income: OECD,30.74
+Netherlands,16.401105,High income: OECD,30.76
+Cambodia,14.832255,Low income,30.76
+Tajikistan,8.29584,Lower middle income,30.76
+Tajikistan,7.41496,Lower middle income,30.77
+Barbados,0.250035,High income: non-OECD,30.8
+Taiwan,20.503568,High income: non-OECD,30.8
+Taiwan,23.34467,High income: non-OECD,30.8
+Australia,10.106834,High income: OECD,30.8
+Australia,12.101641,High income: OECD,30.8
+Australia,13.150591,High income: OECD,30.8
+Australia,18.12477,High income: OECD,30.8
+Austria,8.423559,High income: OECD,30.8
+Belgium,10.091889,High income: OECD,30.8
+Canada,18.368701,High income: OECD,30.8
+France,62.680418,High income: OECD,30.8
+France,65.199104,High income: OECD,30.8
+Germany,80.07594,High income: OECD,30.8
+Germany,80.675999,High income: OECD,30.8
+Germany,81.96583,High income: OECD,30.8
+Ireland,4.675164,High income: OECD,30.8
+Japan,126.773081,High income: OECD,30.8
+Latvia,2.458305,High income: OECD,30.8
+Poland,38.619974,High income: OECD,30.8
+Spain,39.192055,High income: OECD,30.8
+Spain,39.192055,High income: OECD,30.8
+India,607.446519,Lower middle income,30.8
+Indonesia,162.192254,Lower middle income,30.8
+Indonesia,208.644079,Lower middle income,30.8
+Kyrgyzstan,4.394502,Lower middle income,30.8
+Tajikistan,5.148306,Lower middle income,30.8
+Azerbaijan,7.046429,Upper middle income,30.8
+Belarus,10.126941,Upper middle income,30.8
+"Macedonia, former Yugoslav Republic of",1.984242,Upper middle income,30.8
+"Macedonia, former Yugoslav Republic of",1.999362,Upper middle income,30.8
+"Macedonia, former Yugoslav Republic of",2.051427,Upper middle income,30.8
+Turkmenistan,3.668,Upper middle income,30.8
+Sao Tome and Principe,0.17088,Lower middle income,30.82
+Montenegro,0.622957,Upper middle income,30.82
+Slovenia,1.988304,High income: OECD,30.87
+Barbados,0.252197,High income: non-OECD,30.9
+Croatia,4.287015,High income: non-OECD,30.9
+Croatia,4.271497,High income: non-OECD,30.9
+Lithuania,3.574014,High income: non-OECD,30.9
+Lithuania,3.376761,High income: non-OECD,30.9
+Australia,10.327479,High income: OECD,30.9
+Australia,10.561457,High income: OECD,30.9
+Australia,10.803588,High income: OECD,30.9
+Australia,12.335469,High income: OECD,30.9
+Australia,16.047026,High income: OECD,30.9
+Australia,17.096869,High income: OECD,30.9
+Australia,18.12477,High income: OECD,30.9
+Australia,19.514385,High income: OECD,30.9
+Canada,30.145148,High income: OECD,30.9
+Canada,30.420216,High income: OECD,30.9
+Estonia,1.339941,High income: OECD,30.9
+Finland,4.5813,High income: OECD,30.9
+Finland,4.623389,High income: OECD,30.9
+France,65.199104,High income: OECD,30.9
+Italy,56.956635,High income: OECD,30.9
+"Korea, Republic of",38.665964,High income: OECD,30.9
+Luxembourg,0.507889,High income: OECD,30.9
+New Zealand,4.369027,High income: OECD,30.9
+Norway,4.199817,High income: OECD,30.9
+Poland,38.609486,High income: OECD,30.9
+Spain,45.209538,High income: OECD,30.9
+Switzerland,7.113505,High income: OECD,30.9
+Switzerland,7.242034,High income: OECD,30.9
+United Kingdom,56.415196,High income: OECD,30.9
+India,650.907559,Lower middle income,30.9
+Indonesia,151.559397,Lower middle income,30.9
+China,764.901679,Upper middle income,30.9
+Iraq,28.423538,Upper middle income,30.9
+Kazakhstan,15.755242,Upper middle income,30.9
+"Macedonia, former Yugoslav Republic of",2.042894,Upper middle income,30.9
+Ireland,4.480145,High income: OECD,30.91
+Hungary,10.141471,High income: OECD,30.93
+Pakistan,173.669648,Lower middle income,30.93
+Luxembourg,0.465546,High income: OECD,30.96
+Latvia,2.487988,High income: OECD,30.98
+Barbados,0.247444,High income: non-OECD,31
+Cyprus,0.863945,High income: non-OECD,31
+Australia,12.90476,High income: OECD,31
+Australia,19.107251,High income: OECD,31
+Canada,22.823272,High income: OECD,31
+Canada,24.257594,High income: OECD,31
+Denmark,5.079962,High income: OECD,31
+Denmark,5.124807,High income: OECD,31
+Estonia,1.433076,High income: OECD,31
+Germany,81.809438,High income: OECD,31
+Israel,4.148764,High income: OECD,31
+Italy,56.626403,High income: OECD,31
+Italy,57.044614,High income: OECD,31
+Italy,57.01094,High income: OECD,31
+Japan,88.211702,High income: OECD,31
+"Korea, Republic of",32.087884,High income: OECD,31
+"Korea, Republic of",49.090041,High income: OECD,31
+Latvia,2.487988,High income: OECD,31
+Poland,38.195258,High income: OECD,31
+Poland,38.485892,High income: OECD,31
+Portugal,9.890319,High income: OECD,31
+Slovenia,1.988287,High income: OECD,31
+Spain,37.704867,High income: OECD,31
+Spain,41.815486,High income: OECD,31
+Spain,41.815486,High income: OECD,31
+Spain,42.475265,High income: OECD,31
+Spain,43.167276,High income: OECD,31
+Switzerland,7.165581,High income: OECD,31
+United Kingdom,56.220089,High income: OECD,31
+United Kingdom,59.080221,High income: OECD,31
+United States,227.411604,High income: OECD,31
