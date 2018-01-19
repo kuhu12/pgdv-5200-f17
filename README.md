@@ -49,7 +49,7 @@ Assigned:
 classroom 602  
 Due: Screening Herzog: Lo and Behold (first 60min)  
 Screening Herzog: Lo and Behold (remainder),   
-Discussion: 'Herzog. Lo and Behold', team: \[ 'Rye [loandbehold.pdf](https://canvas.newschool.edu/courses/1365031/files/65466557/download?wrap=1 "loandbehold.pdf") ', 'Alonso [LoAndBehold.pdf](https://canvas.newschool.edu/courses/1365031/files/65467088/download?wrap=1 "LoAndBehold.pdf")' \]   
+Discussion: 'Herzog. Lo and Behold', team: \[ 'Rye', 'Alonso' \]   
 Workshop 2
 
 *   jQuery and DOM primitives (/exercises/jQueryPrimitives/index.html)
@@ -236,8 +236,7 @@ Course Evaluations
 Tools, Users and Use Cases  
 **James Neuhaus class visit**  
 Due: Final Prototype  
-**  
-12/07**  
+**12/07**  
 Tools, Users and Use Cases  
 Lab
 
