@@ -10,22 +10,7 @@ Assignment: Screening 1, Reading 1
 
 Class Activity:
 
-Text/Research presentations:
-
-\[ { report: 'Herzog, Werner. Lo and Behold',   
- team: \[ 'Rye', 'Alonso' \] },   
- { report: 'Kurgan, Laura. Close up at a Distance',   
- team: \[ 'Rik', 'Steve' \] },   
- { report: 'Steyerl, Hito. A Sea of Data',   
- team: \[ 'Yicen', 'Flavio' \] },   
- { report: 'Crawford, Kate. Can an Algorithm be Agonistic?',   
- team: \[ 'Isabel', 'George' \] },   
- { report: 'Hayles, Katherine N. Unthought, Chapter 5',   
- team: \[ 'Benz', 'Julian' \] },   
- { report: 'Hayles, Katherine N. Unthought, Chapter 6',   
- team: \[ 'Aucher', 'Ellie' \] },   
- { report: 'Selected UNDP RBA reading',   
- team: \[ 'Joe', undefined \] } \]
+Text/Research presentations
 
 Canvas  
 update portfolio image  
@@ -195,7 +180,7 @@ Lab
 
 _11/01_
 
-_Katherine Hayles workshop (4pm) and[lecture](http://blogs.newschool.edu/integrative-phd/event/katherine-hayles/)(6pm, U L105)_
+_Katherine Hayles workshop (4pm) and [lecture](http://blogs.newschool.edu/integrative-phd/event/katherine-hayles/) (6pm, U L105)_
 
 **11/02**  
 Dynamics, Interactivity and Narrative  
